@@ -1,4 +1,4 @@
-| ![image](../images/chenar-grove-2.jpg) | ![image](../images/chenar-grove-3.jpg) | ![image](../images/chenar-grove-4.jpg) |
+| [![image](../images/chenar-grove-2.jpg)](#) | [![image](../images/chenar-grove-3.jpg)](#) | [![image](../images/chenar-grove-4.jpg)](#) |
 | --- | --- | --- |
 
 ---

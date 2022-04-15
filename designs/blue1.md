@@ -1,4 +1,4 @@
-| ![image](../images/blue1-2.jpg) | ![image](../images/blue1-3.jpg) | ![image](../images/blue1-4.jpg) |
+| [![image](../images/blue1-2.jpg)](#) | [![image](../images/blue1-3.jpg)](#) | [![image](../images/blue1-4.jpg)](#) |
 | --- | --- | --- |
 
 ---

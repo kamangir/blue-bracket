@@ -1,4 +1,4 @@
-| ![image](../images/cube-2.jpg) | ![image](../images/cube-3.jpg) | ![image](../images/cube-4.jpg) |
+| [![image](../images/cube-2.jpg)](#) | [![image](../images/cube-3.jpg)](#) | [![image](../images/cube-4.jpg)](#) |
 | --- | --- | --- |
 
 ---
