@@ -1,0 +1,98 @@
+# DFRobot 5" Display
+1. https://www.dfrobot.com/product-1784.html
+1. https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0550_Web.pdf
+1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0550/9608214
+
+# DFRobot GPS USB
+1. https://www.digikey.ca/en/products/detail/dfrobot/TEL0137/13978513
+
+# DFRobot Jetson Nano UPS Hat
+1. https://www.dfrobot.com/product-2342.html
+1. https://www.robotshop.com/ca/en/ups-hat-for-jetson-nano.html
+1. https://wiki.dfrobot.com/UPS_HAT_for_Jetson_Nano_SKU_DFR0865
+1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0865/14824938
+
+# Jetson Nano Wideangle Camera
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
+
+# Grove Button
+1. https://www.seeedstudio.com/Grove-Button-P.html
+1. http://www.seeedstudio.com/document/pdf/Introduction%20to%20Grove.pdf
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/111020000/5487957
+
+# Grove Light Sensor
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020030/5482599
+
+# Grove Relay
+1. https://raw.githubusercontent.com/SeeedDocument/Grove-Relay/master/res/Relay_Datasheet.pdf
+1. https://www.seeedstudio.com/Grove-Relay.html
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103020005/5487965
+
+# Grove RGB LED
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/104020048_Web.pdf
+1. https://www.seeedstudio.com/Grove-Chainable-RGB-Led-V2-0.html
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/104020048/7622878
+
+related:
+1. https://www.seeedstudio.com/Grove-Chainable-RGB-LED.html
+# Grove Raspberry Pi Hat
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/Grove_Base_Hat_for_Raspberry_Pi_Web.pdf
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826
+
+# Grove Soil Sensor
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020614_Web.pdf
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020614/10451856
+
+# Grove Temperature Sensor
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020015_Web.pdf
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020015/5482612
+
+related:
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020011_Web.pdf
+1. https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020011/5482602
+# Grove Water Sensor
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020018_Web.pdf
+1. https://github.com/Seeed-Studio/Grove_Water_Sensor
+1. https://www.seeedstudio.com/Grove-Water-Sensor.html
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020018/5482605
+
+# Jetson Nano
+1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
+
+# MakerFocus Raspberry Pi UPS Hat
+1. https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply
+1. https://www.amazon.com/gp/product/B01LAEX7J0/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1
+
+related:
+1. https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0494_Web.pdf
+1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0494/10279725
+1. https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0528_Web.pdf
+1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0528/11202719
+1. https://www.robotshop.com/ca/en/lithium-battery-power-pack-raspberry-pi-w-recharging-function.html
+1. https://www.waveshare.com/wiki/Li-ion_Battery_HAT
+1. https://www.pishop.ca/product/li-ion-battery-hat-for-raspberry-pi-5v-output-quick-charge/
+# Raspberry Pi Camera
+1. ir: https://www.digikey.ca/en/products/detail/pimoroni-ltd/CAM008/9521978
+1. ir: https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114990837/6578355
+1. noir: https://www.digikey.ca/en/products/detail/raspberry-pi/913-2673/6152811
+1. rgb: https://www.digikey.ca/en/products/detail/raspberry-pi/913-2664/6152810
+1. rgb: https://www.digikey.ca/en/products/detail/dfrobot/SEN0173/6588626
+1. wide-angle: https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114990838/6578359
+
+related:
+1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
+# Raspberry Pi
+1. https://www.raspberrypi.org/
+
+# Sphero RVR
+1. https://sphero.com/products/rvr
+1. https://sdk.sphero.com/docs/getting_started/raspberry_pi/raspberry_pi_setup/
+1. https://pimylifeup.com/raspberry-pi-serial/
+1. https://github.com/sphero-inc/sphero-sdk-raspberrypi-python
+
+# Waveshare 1.3" OLED Display for Jetson Nano
+1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
+1. https://www.waveshare.com/environment-sensor-for-jetson-nano.htm
+1. https://www.robotshop.com/en/waveshare-environment-sensors-module-jetson-nano-i2c-bus-w-13in-oled-display.html
+
