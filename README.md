@@ -12,8 +12,10 @@ here are [six designs](designs) for this purpose - each yields a modern Linux ma
 | --- | --- | --- |
 | [![image](images/chenar-grove-1.jpg)](designs/chenar-grove.md) | [![image](images/cube-1.jpg)](designs/cube.md) | [![image](images/eye_nano-1.jpg)](designs/eye_nano.md) |
 
-for each design a bom is provided - each design uses two or more variants of the `blue bracket` - `stl`/`obj` files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
+for each design a bom is provided.
+
+each design uses two or more variants of the `blue bracket` - `stl`/`obj`/`skp` (SketchUp 2022) files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
 
 ---
-built by `bolt.138.28.master` - 18 April 2022, 18:39:46.
+built by `bolt.138.29.master` - 18 April 2022, 18:43:40.
 
