@@ -1,6 +1,6 @@
 # blue bracket
 
-## for machine vision on raspberry pi and jetson nano
+## for machine vision & ai on raspberry pi and jetson nano on the edge
 
 machine vision on the edge requires a motherboard, a camera, and a few other peripherals - environmental sensors, a UPS to provide power, and screens and other display units to communicate w/ the user, are also great to have.
 
@@ -15,5 +15,5 @@ here are [six designs](designs) for this purpose - each yields a modern Linux ma
 for each design a bom is provided - each design uses two or more variants of the `blue bracket` - `stl`/`obj` files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
 
 ---
-built by `bolt.136.71.master` - 16 April 2022, 15:47:17.
+built by `bolt.138.28.master` - 18 April 2022, 18:39:46.
 
