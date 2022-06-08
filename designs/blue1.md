@@ -1,3 +1,5 @@
+read more: <a href="https://arash-kamangir.medium.com/camera-code-action-9e6f8c50a272">camera, code, action</a>
+
 | [![image](../images/blue1-2.jpg)](#) | [![image](../images/blue1-3.jpg)](#) | [![image](../images/blue1-4.jpg)](#) |
 | --- | --- | --- |
 
