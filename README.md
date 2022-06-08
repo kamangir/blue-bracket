@@ -17,5 +17,5 @@ for each design a bom is provided.
 each design uses two or more variants of the `blue bracket` - `stl`/`obj`/`skp` (SketchUp 2022) files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
 
 ---
-built by `bolt.145.44.master` - 08 June 2022, 11:44:45.
+built by `bolt.145.44.master` - 08 June 2022, 11:53:22.
 
