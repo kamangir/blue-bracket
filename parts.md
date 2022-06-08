@@ -1,3 +1,23 @@
+# 48mm Mecanum Wheel Pair
+1. https://www.adafruit.com/product/4990
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4678/13148774
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4679/13148776
+
+# 65mm White Wheel for TT DC Gearbox Motors
+1. https://www.adafruit.com/product/3763
+
+# Adafruit DC and Stepper Motor Bonnet for Raspberry Pi
+1. https://www.adafruit.com/product/4280
+
+# Adafruit TB6612 1.2A DC Stepper Motor Driver Breakout Board
+1. https://www.adafruit.com/product/2448
+1. https://www.pishop.ca/product/adafruit-tb6612-1-2a-dcstepper-motor-driver-breakout-board/
+
+# DC Gearbox Motor - TT Motor
+1. https://www.adafruit.com/product/3802
+1. https://www.adafruit.com/product/3801
+1. https://www.adafruit.com/product/3777
+
 # DFRobot 5" Display
 1. https://www.dfrobot.com/product-1784.html
 1. https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0550_Web.pdf
@@ -12,8 +32,9 @@
 1. https://wiki.dfrobot.com/UPS_HAT_for_Jetson_Nano_SKU_DFR0865
 1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0865/14824938
 
-# Jetson Nano Wideangle Camera
-1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
+# Exceed Fire Blue RC Buggy 1/16 2.4Ghz
+1. https://www.nitrorcx.com/51c852-fireblue-24ghz.html
+1. https://p11.secure.hostingprod.com/@hobbypartz.com/ssl/ibuyrc/manual/51C852.pdf
 
 # Grove Button
 1. https://www.seeedstudio.com/Grove-Button-P.html
@@ -22,6 +43,10 @@
 
 # Grove Light Sensor
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020030/5482599
+
+# Grove Raspberry Pi Hat
+1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/Grove_Base_Hat_for_Raspberry_Pi_Web.pdf
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826
 
 # Grove Relay
 1. https://raw.githubusercontent.com/SeeedDocument/Grove-Relay/master/res/Relay_Datasheet.pdf
@@ -35,10 +60,6 @@
 
 related:
 1. https://www.seeedstudio.com/Grove-Chainable-RGB-LED.html
-# Grove Raspberry Pi Hat
-1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/Grove_Base_Hat_for_Raspberry_Pi_Web.pdf
-1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826
-
 # Grove Soil Sensor
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020614_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020614/10451856
@@ -57,8 +78,16 @@ related:
 1. https://www.seeedstudio.com/Grove-Water-Sensor.html
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020018/5482605
 
+# JetBot AI Kit Accessories
+1. https://www.waveshare.com/jetbot-ai-kit-acce.htm
+
+related:
+1. https://jetbot.org/master/index.html
 # Jetson Nano
 1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
+
+# Jetson Nano Wideangle Camera
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
 
 # MakerFocus Raspberry Pi UPS Hat
 1. https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply
@@ -72,6 +101,9 @@ related:
 1. https://www.robotshop.com/ca/en/lithium-battery-power-pack-raspberry-pi-w-recharging-function.html
 1. https://www.waveshare.com/wiki/Li-ion_Battery_HAT
 1. https://www.pishop.ca/product/li-ion-battery-hat-for-raspberry-pi-5v-output-quick-charge/
+# Raspberry Pi
+1. https://www.raspberrypi.org/
+
 # Raspberry Pi Camera
 1. ir: https://www.digikey.ca/en/products/detail/pimoroni-ltd/CAM008/9521978
 1. ir: https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114990837/6578355
@@ -82,8 +114,10 @@ related:
 
 related:
 1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
-# Raspberry Pi
-1. https://www.raspberrypi.org/
+# SparkFun Top pHAT for Raspberry Pi
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-16653/12327504
+1. https://www.sparkfun.com/products/16301
+1. https://learn.sparkfun.com/tutorials/sparkfun-top-phat-hookup-guide
 
 # Sphero RVR
 1. https://sphero.com/products/rvr

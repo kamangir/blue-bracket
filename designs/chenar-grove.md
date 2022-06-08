@@ -8,9 +8,9 @@
 
 1. [Grove Button](../parts.md#grove-button)
 1. [Grove Light Sensor](../parts.md#grove-light-sensor)
-1. [Grove Relay](../parts.md#grove-relay)
 1. [Grove RGB LED](../parts.md#grove-rgb-led)
 1. [Grove Raspberry Pi Hat](../parts.md#grove-raspberry-pi-hat)
+1. [Grove Relay](../parts.md#grove-relay)
 1. [Grove Soil Sensor](../parts.md#grove-soil-sensor)
 1. [Grove Temperature Sensor](../parts.md#grove-temperature-sensor)
 1. [Grove Water Sensor](../parts.md#grove-water-sensor)

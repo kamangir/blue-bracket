@@ -6,9 +6,9 @@
 
 # [bom](../parts.md)
 
+1. [Jetson Nano Wideangle Camera](../parts.md#jetson-nano-wideangle-camera)
 1. [Jetson Nano](../parts.md#jetson-nano)
 1. [Waveshare 1.3" OLED Display for Jetson Nano](../parts.md#waveshare-13-oled-display-for-jetson-nano)
-1. [Jetson Nano Wideangle Camera](../parts.md#jetson-nano-wideangle-camera)
 
 # [brackets](../brackets)
 
