@@ -1,4 +1,4 @@
-Download <a href="https://github.com/kamangir/blue-sbc">python+bash code</a>.
+Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
 | [![image](../images/chenar-grove-2.jpg)](#) | [![image](../images/chenar-grove-3.jpg)](#) | [![image](../images/chenar-grove-4.jpg)](#) |
 | --- | --- | --- |
