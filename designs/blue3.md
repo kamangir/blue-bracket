@@ -1,3 +1,4 @@
+Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
 | [![image](../images/blue3-2.jpg)](#) | [![image](../images/blue3-3.jpg)](#) | [![image](../images/blue3-4.jpg)](#) |
 | --- | --- | --- |
