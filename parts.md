@@ -104,6 +104,11 @@ related:
 # Raspberry Pi
 1. https://www.raspberrypi.org/
 
+# Raspberry Pi 3.5" Display
+1. http://www.lcdwiki.com/3.5inch_RPi_Display
+1. https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(A)
+1. https://www.pishop.ca/product/3-5-inch-raspberry-pi-tft-display/
+
 # Raspberry Pi Camera
 1. ir: https://www.digikey.ca/en/products/detail/pimoroni-ltd/CAM008/9521978
 1. ir: https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114990837/6578355
