@@ -1,4 +1,5 @@
 Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Portal</a>, see <a href="https://github.com/kamangir/RAW-Vancouver-PORTAL-2022">this repo</a> for more details + code.
+The `t`all variants yield a more compact build. 
 
 | [![image](../images/portal-2.jpg)](#) | [![image](../images/portal-3.jpg)](#) | [![image](../images/portal-4.jpg)](#) |
 | --- | --- | --- |
