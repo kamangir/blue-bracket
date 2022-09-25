@@ -13,7 +13,6 @@ Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Po
 
 # [brackets](../brackets)
 
-1. [gen3-shtx](../brackets/gen3-shtx/gen3-shtx.stl)
-1. [gen3-sitx](../brackets/gen3-sitx/gen3-sitx.stl)
+1. [gen3-sktx](../brackets/gen3-sktx/gen3-sktx.stl)
 1. [gen3-sotx](../brackets/gen3-sotx/gen3-sotx.stl)
 
