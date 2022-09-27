@@ -18,5 +18,5 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 
 1. [gen3-scx](../brackets/gen3-scx/gen3-scx.stl)
 1. [gen3-sfx](../brackets/gen3-sfx/gen3-sfx.stl)
-1. [gen3-sgx-pi](../brackets/gen3-sgx-pi/gen3-sgx-pi.stl)
+1. [gen3-suxk-pi](../brackets/gen3-suxk-pi/gen3-suxk-pi.stl)
 
