@@ -47,6 +47,7 @@
 # Grove Raspberry Pi Hat
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/Grove_Base_Hat_for_Raspberry_Pi_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030276/9771828
 
 # Grove Relay
 1. https://raw.githubusercontent.com/SeeedDocument/Grove-Relay/master/res/Relay_Datasheet.pdf
