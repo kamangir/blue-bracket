@@ -8,6 +8,8 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 # [bom](../parts.md)
 
 1. [DFRobot 5" Display](../parts.md#dfrobot-5-display)
+1. [Grove Button](../parts.md#grove-button)
+1. [Grove Raspberry Pi Hat](../parts.md#grove-raspberry-pi-hat)
 1. [MakerFocus Raspberry Pi UPS Hat](../parts.md#makerfocus-raspberry-pi-ups-hat)
 1. [Raspberry Pi Camera](../parts.md#raspberry-pi-camera)
 1. [Raspberry Pi](../parts.md#raspberry-pi)
