@@ -7,8 +7,12 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 
 # [bom](../parts.md)
 
+1. [Adafruit BrainCraft hat](../parts.md#adafruit-braincraft-hat)
+1. [Flick Large 3D Tracking & Gesture Module](../parts.md#flick-large-3d-tracking-&-gesture-module)
 1. [MakerFocus Raspberry Pi UPS Hat](../parts.md#makerfocus-raspberry-pi-ups-hat)
+1. [Pioneer600 Raspberry Pi Expansion Board](../parts.md#pioneer600-raspberry-pi-expansion-board)
 1. [Raspberry Pi Camera](../parts.md#raspberry-pi-camera)
+1. [Raspberry Pi Sense HAT](../parts.md#raspberry-pi-sense-hat)
 1. [Raspberry Pi](../parts.md#raspberry-pi)
 
 # [brackets](../brackets)

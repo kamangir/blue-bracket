@@ -6,6 +6,11 @@
 # 65mm White Wheel for TT DC Gearbox Motors
 1. https://www.adafruit.com/product/3763
 
+# Adafruit BrainCraft hat
+1. https://www.adafruit.com/product/4374
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4374/13180680
+1. https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/4374_Web.pdf
+
 # Adafruit DC and Stepper Motor Bonnet for Raspberry Pi
 1. https://www.adafruit.com/product/4280
 
@@ -35,6 +40,10 @@
 # Exceed Fire Blue RC Buggy 1/16 2.4Ghz
 1. https://www.nitrorcx.com/51c852-fireblue-24ghz.html
 1. https://p11.secure.hostingprod.com/@hobbypartz.com/ssl/ibuyrc/manual/51C852.pdf
+
+# Flick Large 3D Tracking & Gesture Module
+1. https://www.robotshop.com/ca/en/flick-large-3d-tracking-gesture-module.html
+1. https://www.robotshop.com/ca/en/flick-hat-3d-tracking-gesture-raspberry-pi.html
 
 # Grove Button
 1. https://www.seeedstudio.com/Grove-Button-P.html
@@ -102,6 +111,10 @@ related:
 1. https://www.robotshop.com/ca/en/lithium-battery-power-pack-raspberry-pi-w-recharging-function.html
 1. https://www.waveshare.com/wiki/Li-ion_Battery_HAT
 1. https://www.pishop.ca/product/li-ion-battery-hat-for-raspberry-pi-5v-output-quick-charge/
+# Pioneer600 Raspberry Pi Expansion Board
+1. https://www.pishop.ca/product/pioneer600-raspberry-pi-expansion-board/
+1. https://www.waveshare.com/wiki/Pioneer600
+
 # Raspberry Pi
 1. https://www.raspberrypi.org/
 
@@ -120,6 +133,11 @@ related:
 
 related:
 1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
+# Raspberry Pi Sense HAT
+1. https://pythonhosted.org/sense-hat/
+1. https://www.raspberrypi.com/documentation/accessories/sense-hat.html
+1. https://www.digikey.ca/en/products/detail/raspberry-pi/SENSE-HAT/6196429
+
 # SparkFun Top pHAT for Raspberry Pi
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-16653/12327504
 1. https://www.sparkfun.com/products/16301
