@@ -1,4 +1,4 @@
-A Raspberry Pi robot based on <a href="https://projects.raspberrypi.org/en/projects/build-a-buggy/0">build-a-buggy</a> that uses <a href="https://gpiozero.readthedocs.io/en/stable/index.html">gpiozero</a> - also see <a href="https://www.waveshare.com/wiki/BuildMecar-Kit">BuildMecar-Kit</a>.
+A wearable Raspberry Pi + Grove + Camera, <a href="https://github.com/kamangir/dec82">more</a>.
 
 | [![image](../images/dec82-2.jpg)](#) | [![image](../images/dec82-3.jpg)](#) | [![image](../images/dec82-4.jpg)](#) |
 | --- | --- | --- |
