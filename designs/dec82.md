@@ -1,5 +1,5 @@
 A wearable Raspberry Pi + Grove + Camera, <a href="https://github.com/kamangir/dec82">more</a>.
-<a href="https://wiki.seeedstudio.com/Grove_System/">Grove</a>: <a href="https://www.seeedstudio.com/Grove-Button-P.html">button</a>: `D24`, <a href="https://www.seeedstudio.com/Grove-Chainable-RGB-Led-V2-0.html">rgb led</a>: `D26`
+<a href="https://wiki.seeedstudio.com/Grove_System/">Grove</a>: <a href="https://www.seeedstudio.com/Grove-Button-P.html">button</a>: `D24`, <a href="https://www.seeedstudio.com/Grove-Chainable-RGB-Led-V2-0.html">rgb led</a>: 🚧
 
 | [![image](../images/dec82-2.jpg)](#) | [![image](../images/dec82-3.jpg)](#) | [![image](../images/dec82-4.jpg)](#) |
 | --- | --- | --- |
