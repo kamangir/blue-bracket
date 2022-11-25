@@ -53,6 +53,10 @@
 # Grove Light Sensor
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020030/5482599
 
+# Grove OLED 0.96" display
+1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/104020249/14672108
+1. https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/
+
 # Grove Raspberry Pi Hat
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/Grove_Base_Hat_for_Raspberry_Pi_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826
