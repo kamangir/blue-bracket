@@ -16,6 +16,6 @@ A wearable Raspberry Pi + Grove + Camera, <a href="https://github.com/kamangir/d
 
 # [brackets](../brackets)
 
-1. [gen1-dbb](../brackets/gen1-dbb/gen1-dbb.stl)
 1. [gen1-dbg](../brackets/gen1-dbg/gen1-dbg.stl)
+1. [gen1-dbs](../brackets/gen1-dbs/gen1-dbs.stl)
 
