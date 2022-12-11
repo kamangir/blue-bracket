@@ -1,4 +1,4 @@
-A wearable Raspberry Pi + <a href="https://wiki.seeedstudio.com/Grove_System/">Grove</a> | <a href="https://www.sparkfun.com/qwiic">Qwiic</a> + Camera. Download Python + bash <a href="https://github.com/kamangir/dec82">bootstrap</a>.
+A wearable Raspberry Pi + <a href="https://wiki.seeedstudio.com/Grove_System/">Grove</a> | <a href="https://www.sparkfun.com/qwiic">Qwiic</a> + Camera. Python + bash <a href="https://github.com/kamangir/dec82">bootstrap</a>.
 
 | [![image](../images/dec82-2.jpg)](#) | [![image](../images/dec82-3.jpg)](#) | [![image](../images/dec82-4.jpg)](#) |
 | --- | --- | --- |
