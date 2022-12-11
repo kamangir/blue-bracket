@@ -1,8 +1,8 @@
-A wearable Raspberry Pi + Grove + Camera, <a href="https://github.com/kamangir/dec82">more</a>.
-<a href="https://wiki.seeedstudio.com/Grove_System/">Grove</a>: <a href="https://www.seeedstudio.com/Grove-Button-P.html">button</a>: `D24`.
+A wearable Raspberry Pi + <a href="https://wiki.seeedstudio.com/Grove_System/">Grove</a> | <a href="https://www.sparkfun.com/qwiic">Qwiic</a> + Camera. Download Python + bash <a href="https://github.com/kamangir/dec82">bootstrap</a>.
 
 | [![image](../images/dec82-2.jpg)](#) | [![image](../images/dec82-3.jpg)](#) | [![image](../images/dec82-4.jpg)](#) |
 | --- | --- | --- |
+| [![image](../images/dec82-5.jpg)](#) | [![image](../images/dec82-6.jpg)](#) | [![image](../images/dec82-7.jpg)](#) |
 
 ---
 
@@ -13,9 +13,12 @@ A wearable Raspberry Pi + Grove + Camera, <a href="https://github.com/kamangir/d
 1. [Grove Raspberry Pi Hat](../parts.md#grove-raspberry-pi-hat)
 1. [Raspberry Pi Camera](../parts.md#raspberry-pi-camera)
 1. [Raspberry Pi](../parts.md#raspberry-pi)
+1. [SparkFun Top pHAT for Raspberry Pi](../parts.md#sparkfun-top-phat-for-raspberry-pi)
 
 # [brackets](../brackets)
 
-1. [gen1-dbg](../brackets/gen1-dbg/gen1-dbg.stl)
-1. [gen1-dbs](../brackets/gen1-dbs/gen1-dbs.stl)
+1. [gen1-dbbq](../brackets/gen1-dbbq/gen1-dbbq.stl)
+1. [gen1-dbgl](../brackets/gen1-dbgl/gen1-dbgl.stl)
+1. [gen1-dbsl](../brackets/gen1-dbsl/gen1-dbsl.stl)
+1. [gen1-dbtq](../brackets/gen1-dbtq/gen1-dbtq.stl)
 
