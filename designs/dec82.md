@@ -3,6 +3,7 @@ A wearable Raspberry Pi + <a href="https://wiki.seeedstudio.com/Grove_System/">G
 | [![image](../images/dec82-2.jpg)](#) | [![image](../images/dec82-3.jpg)](#) | [![image](../images/dec82-4.jpg)](#) |
 | --- | --- | --- |
 | [![image](../images/dec82-5.jpg)](#) | [![image](../images/dec82-6.jpg)](#) | [![image](../images/dec82-7.jpg)](#) |
+| [![image](../images/dec82-8.jpg)](#) | [![image](../images/dec82-9.jpg)](#) | [![image](../images/dec82-10.jpg)](#) |
 
 ---
 
