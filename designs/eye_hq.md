@@ -8,6 +8,7 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 # [bom](../parts.md)
 
 1. [Pioneer600 Raspberry Pi Expansion Board](../parts.md#pioneer600-raspberry-pi-expansion-board)
+1. [Qwiic LED Stick](../parts.md#qwiic-led-stick)
 1. [Raspberry Pi High Quality Camera](../parts.md#raspberry-pi-high-quality-camera)
 1. [Raspberry Pi](../parts.md#raspberry-pi)
 

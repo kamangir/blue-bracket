@@ -119,6 +119,10 @@ related:
 1. https://www.pishop.ca/product/pioneer600-raspberry-pi-expansion-board/
 1. https://www.waveshare.com/wiki/Pioneer600
 
+# Qwiic LED Stick
+1. https://www.sparkfun.com/products/18354
+1. https://cdn.sparkfun.com/assets/learn_tutorials/1/8/2/4/Qwiic_LED_Stick-Dimensions.png
+
 # Raspberry Pi
 1. https://www.raspberrypi.org/
 
