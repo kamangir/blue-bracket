@@ -12,6 +12,7 @@ A wearable Raspberry Pi + <a href="https://wiki.seeedstudio.com/Grove_System/">G
 1. [Grove Button](../parts.md#grove-button)
 1. [Grove OLED 0.96" display](../parts.md#grove-oled-096-display)
 1. [Grove Raspberry Pi Hat](../parts.md#grove-raspberry-pi-hat)
+1. [Qwiic LED Stick](../parts.md#qwiic-led-stick)
 1. [Raspberry Pi Camera](../parts.md#raspberry-pi-camera)
 1. [Raspberry Pi](../parts.md#raspberry-pi)
 1. [SparkFun Top pHAT for Raspberry Pi](../parts.md#sparkfun-top-phat-for-raspberry-pi)
