@@ -137,6 +137,14 @@ related:
 
 related:
 1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
+# Raspberry Pi High Quality Camera
+1. https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/
+1. https://www.adafruit.com/product/4561
+1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0261/12339164
+
+related:
+1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0124/12339169
+1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0123/12339166
 # Raspberry Pi Sense HAT
 1. https://pythonhosted.org/sense-hat/
 1. https://www.raspberrypi.com/documentation/accessories/sense-hat.html
