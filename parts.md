@@ -180,6 +180,11 @@ related:
 1. https://pimylifeup.com/raspberry-pi-serial/
 1. https://github.com/sphero-inc/sphero-sdk-raspberrypi-python
 
+# Unicorn HAT HD
+1. https://shop.pimoroni.com/products/unicorn-hat-hd?variant=42496126730
+1. https://media.digikey.com/pdf/Data%20Sheets/Pimoroni%20PDFs/PIM273_Web.pdf
+1. https://www.digikey.ca/en/products/detail/pimoroni-ltd/PIM273/7386666
+
 # Waveshare 1.3" OLED Display for Jetson Nano
 1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
 1. https://www.waveshare.com/environment-sensor-for-jetson-nano.htm
