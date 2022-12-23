@@ -14,6 +14,20 @@
 # Adafruit DC and Stepper Motor Bonnet for Raspberry Pi
 1. https://www.adafruit.com/product/4280
 
+# Adafruit RGB LED Matrix
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2026/7035028
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2277/7035035
+1. https://learn.adafruit.com/32x16-32x32-rgb-led-matrix
+1. https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi
+1. https://cdn-learn.adafruit.com/downloads/pdf/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi.pdf
+
+# Adafruit RGB Matrix Hat
+1. https://cdn-learn.adafruit.com/downloads/pdf/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi.pdf
+1. https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2345/5699181
+
+related:
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/658/5774322
 # Adafruit TB6612 1.2A DC Stepper Motor Driver Breakout Board
 1. https://www.adafruit.com/product/2448
 1. https://www.pishop.ca/product/adafruit-tb6612-1-2a-dcstepper-motor-driver-breakout-board/
