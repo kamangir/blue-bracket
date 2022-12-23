@@ -163,6 +163,12 @@ related:
 1. https://www.raspberrypi.com/documentation/accessories/sense-hat.html
 1. https://www.digikey.ca/en/products/detail/raspberry-pi/SENSE-HAT/6196429
 
+# Scroll pHAT HD
+1. https://www.digikey.ca/en/products/detail/pimoroni-ltd/PIM268/7386663
+1. https://media.digikey.com/pdf/Data%20Sheets/Pimoroni%20PDFs/Scroll_pHAT_HD_Web.pdf
+1. https://shop.pimoroni.com/products/scroll-phat-hd?variant=2380803768330
+1. https://github.com/pimoroni/scroll-phat-hd
+
 # SparkFun Top pHAT for Raspberry Pi
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-16653/12327504
 1. https://www.sparkfun.com/products/16301
