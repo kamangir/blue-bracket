@@ -13,6 +13,7 @@ A wearable Raspberry Pi + <a href="https://wiki.seeedstudio.com/Grove_System/">G
 1. [Grove OLED 0.96" display](../parts.md#grove-oled-096-display)
 1. [Grove Raspberry Pi Hat](../parts.md#grove-raspberry-pi-hat)
 1. [Qwiic 6 Degrees of Freedom Breakout](../parts.md#qwiic-6-degrees-of-freedom-breakout)
+1. [Qwiic Cable](../parts.md#qwiic-cable)
 1. [Qwiic Digital Temperature Sensor](../parts.md#qwiic-digital-temperature-sensor)
 1. [Qwiic Joystick](../parts.md#qwiic-joystick)
 1. [Qwiic LED Stick](../parts.md#qwiic-led-stick)

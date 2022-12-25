@@ -136,6 +136,11 @@ related:
 # Qwiic 6 Degrees of Freedom Breakout
 1. https://www.sparkfun.com/products/18020
 
+# Qwiic Cable
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14427/7652740
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14426/7652739
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5384/16546428
+
 # Qwiic Digital Temperature Sensor
 1. https://www.sparkfun.com/products/16304
 
