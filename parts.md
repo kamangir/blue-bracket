@@ -134,6 +134,7 @@ related:
 1. https://www.waveshare.com/wiki/Pioneer600
 
 # Qwiic 6 Degrees of Freedom Breakout
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/SEN-18020/14313960
 1. https://www.sparkfun.com/products/18020
 
 # Qwiic Cable
@@ -148,6 +149,7 @@ related:
 1. https://www.sparkfun.com/products/15168
 
 # Qwiic LED Stick
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/COM-18354/14645588
 1. https://www.sparkfun.com/products/18354
 1. https://cdn.sparkfun.com/assets/learn_tutorials/1/8/2/4/Qwiic_LED_Stick-Dimensions.png
 
