@@ -17,4 +17,5 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 
 1. [gen1-dbq](../brackets/gen1-dbq/gen1-dbq.stl)
 1. [gen1-dfq](../brackets/gen1-dfq/gen1-dfq.stl)
+1. [gen3-g2qx](../brackets/gen3-g2qx/gen3-g2qx.stl)
 
