@@ -6,6 +6,12 @@
 # 65mm White Wheel for TT DC Gearbox Motors
 1. https://www.adafruit.com/product/3763
 
+# Adafruit 13x9 PWM RGB LED Matrix Driver Qwiic
+1. https://learn.adafruit.com/adafruit-is31fl3741
+1. https://learn.adafruit.com/assets/104577
+1. https://www.adafruit.com/product/5201
+1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5201/15216796
+
 # Adafruit BrainCraft hat
 1. https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/4374_Web.pdf
 1. https://www.adafruit.com/product/4374
@@ -193,6 +199,14 @@ related:
 1. https://media.digikey.com/pdf/Data%20Sheets/Pimoroni%20PDFs/Scroll_pHAT_HD_Web.pdf
 1. https://shop.pimoroni.com/products/scroll-phat-hd?variant=2380803768330
 1. https://www.digikey.ca/en/products/detail/pimoroni-ltd/PIM268/7386663
+
+# SparkFun Qwiic OLED Display 0.91" 128x32
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/LCD-17153/13419017
+1. https://www.sparkfun.com/products/17153
+
+# SparkFun Qwiic pHAT v2.0 for Raspberry Pi
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-15945/11570526
+1. https://www.sparkfun.com/products/15945
 
 # SparkFun Top pHAT for Raspberry Pi
 1. https://learn.sparkfun.com/tutorials/sparkfun-top-phat-hookup-guide
