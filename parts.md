@@ -45,6 +45,10 @@ related:
 # DFRobot GPS USB
 1. https://www.digikey.ca/en/products/detail/dfrobot/TEL0137/13978513
 
+# DFRobot I2C 16X2 RGB LCD Keypad Hat
+1. https://www.dfrobot.com/product-1885.html
+1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0514/15997375
+
 # DFRobot Jetson Nano UPS Hat
 1. https://wiki.dfrobot.com/UPS_HAT_for_Jetson_Nano_SKU_DFR0865
 1. https://www.dfrobot.com/product-2342.html
