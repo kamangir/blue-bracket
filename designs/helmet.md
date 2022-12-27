@@ -11,6 +11,7 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 
 1. [Adafruit BrainCraft hat](../parts.md#adafruit-braincraft-hat)
 1. [Qwiic 6 Degrees of Freedom Breakout](../parts.md#qwiic-6-degrees-of-freedom-breakout)
+1. [Qwiic Cable](../parts.md#qwiic-cable)
 1. [Qwiic LED Stick](../parts.md#qwiic-led-stick)
 1. [Raspberry Pi Camera](../parts.md#raspberry-pi-camera)
 1. [Raspberry Pi](../parts.md#raspberry-pi)
