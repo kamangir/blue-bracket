@@ -2,6 +2,8 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 
 | [![image](../images/helmet-2.jpg)](#) | [![image](../images/helmet-3.jpg)](#) | [![image](../images/helmet-4.jpg)](#) |
 | --- | --- | --- |
+| [![image](../images/helmet-5.jpg)](#) | [![image](../images/helmet-6.jpg)](#) | [![image](../images/helmet-7.jpg)](#) |
+| [![image](../images/helmet-8.jpg)](#) | [![image](../images/helmet-9.jpg)](#) | [![image](../images/helmet-10.jpg)](#) |
 
 ---
 
