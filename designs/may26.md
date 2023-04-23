@@ -2,6 +2,7 @@ Hardware for <a href="https://www.vanartgallery.bc.ca/events/may26artparty/">Art
 
 | [![image](../images/may26-2.jpg)](#) | [![image](../images/may26-3.jpg)](#) | [![image](../images/may26-4.jpg)](#) |
 | --- | --- | --- |
+| [![image](../images/may26-5.jpg)](#) | [![image](../images/may26-6.jpg)](#) | [![image](../images/may26-7.jpg)](#) |
 
 ---
 
