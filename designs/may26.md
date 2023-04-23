@@ -1,6 +1,6 @@
 Hardware for <a href="https://www.vanartgallery.bc.ca/events/may26artparty/">Art Party, Vancouver Art Gallery</a>.
 
-| [![image](../images/may26-2.jpg)](#) | [![image](../images/may26-3.jpg)](#) | [![image](../images/may26-4.jpg)](#) |
+| [![image](../images/may26-1.jpg)](#) | [![image](../images/may26-2.jpg)](#) | [![image](../images/may26-3.jpg)](#) |
 | --- | --- | --- |
 
 ---
