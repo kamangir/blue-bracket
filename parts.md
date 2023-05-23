@@ -4,7 +4,7 @@
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4679/13148776
 
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md)
 
 ---
 
@@ -12,7 +12,7 @@
 1. https://www.adafruit.com/product/3763
 
 
- used in : [blue-jetbot](../designs/blue-jetbot.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md)
 
 ---
 
@@ -23,7 +23,7 @@
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5201/15216796
 
 
- used in : [2x13x9](../designs/2x13x9.md)
+ used in : [2x13x9](./designs/2x13x9.md)
 
 ---
 
@@ -33,7 +33,7 @@
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4374/13180680
 
 
- used in : [cube](../designs/cube.md), [helmet](../designs/helmet.md)
+ used in : [cube](./designs/cube.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -41,7 +41,7 @@
 1. https://www.adafruit.com/product/4280
 
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md), [blue-donkey](../designs/blue-donkey.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md)
 
 ---
 
@@ -53,7 +53,7 @@
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2277/7035035
 
 
- used in : [nurah](../designs/nurah.md)
+ used in : [nurah](./designs/nurah.md)
 
 ---
 
@@ -65,7 +65,7 @@
 related:
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/658/5774322
 
- used in : [nurah](../designs/nurah.md)
+ used in : [nurah](./designs/nurah.md)
 
 ---
 
@@ -74,7 +74,7 @@ related:
 1. https://www.pishop.ca/product/adafruit-tb6612-1-2a-dcstepper-motor-driver-breakout-board/
 
 
- used in : [blue-donkey](../designs/blue-donkey.md)
+ used in : [blue-donkey](./designs/blue-donkey.md)
 
 ---
 
@@ -84,7 +84,7 @@ related:
 1. https://www.adafruit.com/product/3802
 
 
- used in : [blue-jetbot](../designs/blue-jetbot.md), [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md)
 
 ---
 
@@ -94,7 +94,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0550/9608214
 
 
- used in : [blue3](../designs/blue3.md), [blue4](../designs/blue4.md)
+ used in : [blue3](./designs/blue3.md), [blue4](./designs/blue4.md)
 
 ---
 
@@ -102,7 +102,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/dfrobot/TEL0137/13978513
 
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md), [blue-donkey](../designs/blue-donkey.md), [blue1](../designs/blue1.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md)
 
 ---
 
@@ -111,7 +111,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0514/15997375
 
 
- used in : [scooter](../designs/scooter.md)
+ used in : [scooter](./designs/scooter.md)
 
 ---
 
@@ -122,7 +122,7 @@ related:
 1. https://www.robotshop.com/ca/en/ups-hat-for-jetson-nano.html
 
 
- used in : [blue-donkey](../designs/blue-donkey.md)
+ used in : [blue-donkey](./designs/blue-donkey.md)
 
 ---
 
@@ -131,7 +131,7 @@ related:
 1. https://www.nitrorcx.com/51c852-fireblue-24ghz.html
 
 
- used in : [blue-donkey](../designs/blue-donkey.md)
+ used in : [blue-donkey](./designs/blue-donkey.md)
 
 ---
 
@@ -140,7 +140,7 @@ related:
 1. https://www.robotshop.com/ca/en/flick-large-3d-tracking-gesture-module.html
 
 
- used in : [cube](../designs/cube.md)
+ used in : [cube](./designs/cube.md)
 
 ---
 
@@ -150,7 +150,7 @@ related:
 1. https://www.seeedstudio.com/Grove-Button-P.html
 
 
- used in : [blue3](../designs/blue3.md), [chenar-grove](../designs/chenar-grove.md), [dec82](../designs/dec82.md)
+ used in : [blue3](./designs/blue3.md), [chenar-grove](./designs/chenar-grove.md), [dec82](./designs/dec82.md)
 
 ---
 
@@ -158,7 +158,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020030/5482599
 
 
- used in : [chenar-grove](../designs/chenar-grove.md)
+ used in : [chenar-grove](./designs/chenar-grove.md)
 
 ---
 
@@ -167,7 +167,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/104020249/14672108
 
 
- used in : [dec82](../designs/dec82.md)
+ used in : [dec82](./designs/dec82.md)
 
 ---
 
@@ -177,7 +177,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030276/9771828
 
 
- used in : [blue3](../designs/blue3.md), [chenar-grove](../designs/chenar-grove.md), [dec82](../designs/dec82.md)
+ used in : [blue3](./designs/blue3.md), [chenar-grove](./designs/chenar-grove.md), [dec82](./designs/dec82.md)
 
 ---
 
@@ -187,7 +187,7 @@ related:
 1. https://www.seeedstudio.com/Grove-Relay.html
 
 
- used in : [chenar-grove](../designs/chenar-grove.md)
+ used in : [chenar-grove](./designs/chenar-grove.md)
 
 ---
 
@@ -199,7 +199,7 @@ related:
 related:
 1. https://www.seeedstudio.com/Grove-Chainable-RGB-LED.html
 
- used in : [chenar-grove](../designs/chenar-grove.md)
+ used in : [chenar-grove](./designs/chenar-grove.md)
 
 ---
 
@@ -208,7 +208,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020614/10451856
 
 
- used in : [chenar-grove](../designs/chenar-grove.md)
+ used in : [chenar-grove](./designs/chenar-grove.md)
 
 ---
 
@@ -221,7 +221,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020011/5482602
 1. https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html
 
- used in : [chenar-grove](../designs/chenar-grove.md)
+ used in : [chenar-grove](./designs/chenar-grove.md)
 
 ---
 
@@ -232,7 +232,7 @@ related:
 1. https://www.seeedstudio.com/Grove-Water-Sensor.html
 
 
- used in : [chenar-grove](../designs/chenar-grove.md)
+ used in : [chenar-grove](./designs/chenar-grove.md)
 
 ---
 
@@ -242,7 +242,7 @@ related:
 related:
 1. https://jetbot.org/master/index.html
 
- used in : [blue-jetbot](../designs/blue-jetbot.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md)
 
 ---
 
@@ -250,7 +250,7 @@ related:
 1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 
 
- used in : [blue-jetbot](../designs/blue-jetbot.md), [blue-donkey](../designs/blue-donkey.md), [eye_nano](../designs/eye_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md)
 
 ---
 
@@ -258,7 +258,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
 
 
- used in : [blue-jetbot](../designs/blue-jetbot.md), [blue-donkey](../designs/blue-donkey.md), [eye_nano](../designs/eye_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md)
 
 ---
 
@@ -275,7 +275,7 @@ related:
 1. https://www.robotshop.com/ca/en/lithium-battery-power-pack-raspberry-pi-w-recharging-function.html
 1. https://www.waveshare.com/wiki/Li-ion_Battery_HAT
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md), [blue-donkey](../designs/blue-donkey.md), [blue1](../designs/blue1.md), [blue3](../designs/blue3.md), [blue4](../designs/blue4.md), [cube](../designs/cube.md), [scooter](../designs/scooter.md), [skateboard](../designs/skateboard.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [cube](./designs/cube.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md)
 
 ---
 
@@ -284,7 +284,7 @@ related:
 1. https://www.waveshare.com/wiki/Pioneer600
 
 
- used in : [cube](../designs/cube.md), [eye_hq](../designs/eye_hq.md)
+ used in : [cube](./designs/cube.md), [eye_hq](./designs/eye_hq.md)
 
 ---
 
@@ -293,7 +293,7 @@ related:
 1. https://www.sparkfun.com/products/18020
 
 
- used in : [dec82q](../designs/dec82q.md), [helmet](../designs/helmet.md)
+ used in : [dec82q](./designs/dec82q.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -303,7 +303,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14427/7652740
 
 
- used in : [dec82q](../designs/dec82q.md), [helmet](../designs/helmet.md)
+ used in : [dec82q](./designs/dec82q.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -311,7 +311,7 @@ related:
 1. https://www.sparkfun.com/products/16304
 
 
- used in : [dec82q](../designs/dec82q.md)
+ used in : [dec82q](./designs/dec82q.md)
 
 ---
 
@@ -319,7 +319,7 @@ related:
 1. https://www.sparkfun.com/products/15168
 
 
- used in : [dec82q](../designs/dec82q.md)
+ used in : [dec82q](./designs/dec82q.md)
 
 ---
 
@@ -329,7 +329,7 @@ related:
 1. https://www.sparkfun.com/products/18354
 
 
- used in : [dec82q](../designs/dec82q.md), [helmet](../designs/helmet.md)
+ used in : [dec82q](./designs/dec82q.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -337,7 +337,7 @@ related:
 1. https://www.raspberrypi.org/
 
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md), [blue-donkey](../designs/blue-donkey.md), [blue1](../designs/blue1.md), [blue3](../designs/blue3.md), [blue4](../designs/blue4.md), [chenar-grove](../designs/chenar-grove.md), [cube](../designs/cube.md), [dec82](../designs/dec82.md), [dec82q](../designs/dec82q.md), [eye_hq](../designs/eye_hq.md), [portal](../designs/portal.md), [may26](../designs/may26.md), [white_elephant](../designs/white_elephant.md), [candle](../designs/candle.md), [nurah](../designs/nurah.md), [unicorn](../designs/unicorn.md), [helmet](../designs/helmet.md), [scooter](../designs/scooter.md), [skateboard](../designs/skateboard.md), [2x13x9](../designs/2x13x9.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [eye_hq](./designs/eye_hq.md), [portal](./designs/portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
 
 ---
 
@@ -347,7 +347,7 @@ related:
 1. https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(A)
 
 
- used in : [portal](../designs/portal.md), [may26](../designs/may26.md)
+ used in : [portal](./designs/portal.md), [may26](./designs/may26.md)
 
 ---
 
@@ -362,7 +362,7 @@ related:
 related:
 1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md), [blue-donkey](../designs/blue-donkey.md), [blue1](../designs/blue1.md), [blue3](../designs/blue3.md), [blue4](../designs/blue4.md), [chenar-grove](../designs/chenar-grove.md), [cube](../designs/cube.md), [dec82](../designs/dec82.md), [dec82q](../designs/dec82q.md), [portal](../designs/portal.md), [may26](../designs/may26.md), [white_elephant](../designs/white_elephant.md), [candle](../designs/candle.md), [nurah](../designs/nurah.md), [unicorn](../designs/unicorn.md), [helmet](../designs/helmet.md), [scooter](../designs/scooter.md), [skateboard](../designs/skateboard.md), [2x13x9](../designs/2x13x9.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [portal](./designs/portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
 
 ---
 
@@ -375,7 +375,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0123/12339166
 1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0124/12339169
 
- used in : [eye_hq](../designs/eye_hq.md)
+ used in : [eye_hq](./designs/eye_hq.md)
 
 ---
 
@@ -385,7 +385,7 @@ related:
 1. https://www.raspberrypi.com/documentation/accessories/sense-hat.html
 
 
- used in : [cube](../designs/cube.md), [skateboard](../designs/skateboard.md)
+ used in : [cube](./designs/cube.md), [skateboard](./designs/skateboard.md)
 
 ---
 
@@ -396,7 +396,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/pimoroni-ltd/PIM268/7386663
 
 
- used in : [candle](../designs/candle.md)
+ used in : [candle](./designs/candle.md)
 
 ---
 
@@ -405,7 +405,7 @@ related:
 1. https://www.sparkfun.com/products/17153
 
 
- used in : [2x13x9](../designs/2x13x9.md)
+ used in : [2x13x9](./designs/2x13x9.md)
 
 ---
 
@@ -414,7 +414,7 @@ related:
 1. https://www.sparkfun.com/products/15945
 
 
- used in : [2x13x9](../designs/2x13x9.md)
+ used in : [2x13x9](./designs/2x13x9.md)
 
 ---
 
@@ -424,7 +424,7 @@ related:
 1. https://www.sparkfun.com/products/16301
 
 
- used in : [blue-buggy](../designs/blue-buggy.md), [blue-buggy-2](../designs/blue-buggy-2.md), [blue-donkey](../designs/blue-donkey.md), [dec82q](../designs/dec82q.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [dec82q](./designs/dec82q.md)
 
 ---
 
@@ -435,7 +435,7 @@ related:
 1. https://sphero.com/products/rvr
 
 
- used in : [blue1](../designs/blue1.md), [blue4](../designs/blue4.md)
+ used in : [blue1](./designs/blue1.md), [blue4](./designs/blue4.md)
 
 ---
 
@@ -445,7 +445,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/pimoroni-ltd/PIM273/7386666
 
 
- used in : [unicorn](../designs/unicorn.md)
+ used in : [unicorn](./designs/unicorn.md)
 
 ---
 
@@ -455,7 +455,7 @@ related:
 1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
 
 
- used in : [blue-jetbot](../designs/blue-jetbot.md), [blue-donkey](../designs/blue-donkey.md), [eye_nano](../designs/eye_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md)
 
 ---
 
