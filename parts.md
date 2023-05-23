@@ -5,6 +5,7 @@
 
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md)
+
 ---
 
 # 65mm White Wheel for TT DC Gearbox Motors
@@ -12,6 +13,7 @@
 
 
  used in : [blue-jetbot](../designs/.md#blue-jetbot.md)
+
 ---
 
 # Adafruit 13x9 PWM RGB LED Matrix Driver Qwiic
@@ -22,6 +24,7 @@
 
 
  used in : [2x13x9](../designs/.md#2x13x9.md)
+
 ---
 
 # Adafruit BrainCraft hat
@@ -31,6 +34,7 @@
 
 
  used in : [cube](../designs/.md#cube.md), [helmet](../designs/.md#helmet.md)
+
 ---
 
 # Adafruit DC and Stepper Motor Bonnet for Raspberry Pi
@@ -38,6 +42,7 @@
 
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md), [blue-donkey](../designs/.md#blue-donkey.md)
+
 ---
 
 # Adafruit RGB LED Matrix
@@ -49,6 +54,7 @@
 
 
  used in : [nurah](../designs/.md#nurah.md)
+
 ---
 
 # Adafruit RGB Matrix Hat
@@ -60,6 +66,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/658/5774322
 
  used in : [nurah](../designs/.md#nurah.md)
+
 ---
 
 # Adafruit TB6612 1.2A DC Stepper Motor Driver Breakout Board
@@ -68,6 +75,7 @@ related:
 
 
  used in : [blue-donkey](../designs/.md#blue-donkey.md)
+
 ---
 
 # DC Gearbox Motor - TT Motor
@@ -77,6 +85,7 @@ related:
 
 
  used in : [blue-jetbot](../designs/.md#blue-jetbot.md), [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md)
+
 ---
 
 # DFRobot 5" Display
@@ -86,6 +95,7 @@ related:
 
 
  used in : [blue3](../designs/.md#blue3.md), [blue4](../designs/.md#blue4.md)
+
 ---
 
 # DFRobot GPS USB
@@ -93,6 +103,7 @@ related:
 
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md), [blue-donkey](../designs/.md#blue-donkey.md), [blue1](../designs/.md#blue1.md)
+
 ---
 
 # DFRobot I2C 16X2 RGB LCD Keypad Hat
@@ -101,6 +112,7 @@ related:
 
 
  used in : [scooter](../designs/.md#scooter.md)
+
 ---
 
 # DFRobot Jetson Nano UPS Hat
@@ -111,6 +123,7 @@ related:
 
 
  used in : [blue-donkey](../designs/.md#blue-donkey.md)
+
 ---
 
 # Exceed Fire Blue RC Buggy 1/16 2.4Ghz
@@ -119,6 +132,7 @@ related:
 
 
  used in : [blue-donkey](../designs/.md#blue-donkey.md)
+
 ---
 
 # Flick Large 3D Tracking & Gesture Module
@@ -127,6 +141,7 @@ related:
 
 
  used in : [cube](../designs/.md#cube.md)
+
 ---
 
 # Grove Button
@@ -136,6 +151,7 @@ related:
 
 
  used in : [blue3](../designs/.md#blue3.md), [chenar-grove](../designs/.md#chenar-grove.md), [dec82](../designs/.md#dec82.md)
+
 ---
 
 # Grove Light Sensor
@@ -143,6 +159,7 @@ related:
 
 
  used in : [chenar-grove](../designs/.md#chenar-grove.md)
+
 ---
 
 # Grove OLED 0.96" display
@@ -151,6 +168,7 @@ related:
 
 
  used in : [dec82](../designs/.md#dec82.md)
+
 ---
 
 # Grove Raspberry Pi Hat
@@ -160,6 +178,7 @@ related:
 
 
  used in : [blue3](../designs/.md#blue3.md), [chenar-grove](../designs/.md#chenar-grove.md), [dec82](../designs/.md#dec82.md)
+
 ---
 
 # Grove Relay
@@ -169,6 +188,7 @@ related:
 
 
  used in : [chenar-grove](../designs/.md#chenar-grove.md)
+
 ---
 
 # Grove RGB LED
@@ -180,6 +200,7 @@ related:
 1. https://www.seeedstudio.com/Grove-Chainable-RGB-LED.html
 
  used in : [chenar-grove](../designs/.md#chenar-grove.md)
+
 ---
 
 # Grove Soil Sensor
@@ -188,6 +209,7 @@ related:
 
 
  used in : [chenar-grove](../designs/.md#chenar-grove.md)
+
 ---
 
 # Grove Temperature Sensor
@@ -200,6 +222,7 @@ related:
 1. https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html
 
  used in : [chenar-grove](../designs/.md#chenar-grove.md)
+
 ---
 
 # Grove Water Sensor
@@ -210,6 +233,7 @@ related:
 
 
  used in : [chenar-grove](../designs/.md#chenar-grove.md)
+
 ---
 
 # JetBot AI Kit Accessories
@@ -219,6 +243,7 @@ related:
 1. https://jetbot.org/master/index.html
 
  used in : [blue-jetbot](../designs/.md#blue-jetbot.md)
+
 ---
 
 # Jetson Nano
@@ -226,6 +251,7 @@ related:
 
 
  used in : [blue-jetbot](../designs/.md#blue-jetbot.md), [blue-donkey](../designs/.md#blue-donkey.md), [eye_nano](../designs/.md#eye_nano.md)
+
 ---
 
 # Jetson Nano Wideangle Camera
@@ -233,6 +259,7 @@ related:
 
 
  used in : [blue-jetbot](../designs/.md#blue-jetbot.md), [blue-donkey](../designs/.md#blue-donkey.md), [eye_nano](../designs/.md#eye_nano.md)
+
 ---
 
 # MakerFocus Raspberry Pi UPS Hat
@@ -249,6 +276,7 @@ related:
 1. https://www.waveshare.com/wiki/Li-ion_Battery_HAT
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md), [blue-donkey](../designs/.md#blue-donkey.md), [blue1](../designs/.md#blue1.md), [blue3](../designs/.md#blue3.md), [blue4](../designs/.md#blue4.md), [cube](../designs/.md#cube.md), [scooter](../designs/.md#scooter.md), [skateboard](../designs/.md#skateboard.md)
+
 ---
 
 # Pioneer600 Raspberry Pi Expansion Board
@@ -257,6 +285,7 @@ related:
 
 
  used in : [cube](../designs/.md#cube.md), [eye_hq](../designs/.md#eye_hq.md)
+
 ---
 
 # Qwiic 6 Degrees of Freedom Breakout
@@ -265,6 +294,7 @@ related:
 
 
  used in : [dec82q](../designs/.md#dec82q.md), [helmet](../designs/.md#helmet.md)
+
 ---
 
 # Qwiic Cable
@@ -274,6 +304,7 @@ related:
 
 
  used in : [dec82q](../designs/.md#dec82q.md), [helmet](../designs/.md#helmet.md)
+
 ---
 
 # Qwiic Digital Temperature Sensor
@@ -281,6 +312,7 @@ related:
 
 
  used in : [dec82q](../designs/.md#dec82q.md)
+
 ---
 
 # Qwiic Joystick
@@ -288,6 +320,7 @@ related:
 
 
  used in : [dec82q](../designs/.md#dec82q.md)
+
 ---
 
 # Qwiic LED Stick
@@ -297,6 +330,7 @@ related:
 
 
  used in : [dec82q](../designs/.md#dec82q.md), [helmet](../designs/.md#helmet.md)
+
 ---
 
 # Raspberry Pi
@@ -304,6 +338,7 @@ related:
 
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md), [blue-donkey](../designs/.md#blue-donkey.md), [blue1](../designs/.md#blue1.md), [blue3](../designs/.md#blue3.md), [blue4](../designs/.md#blue4.md), [chenar-grove](../designs/.md#chenar-grove.md), [cube](../designs/.md#cube.md), [dec82](../designs/.md#dec82.md), [dec82q](../designs/.md#dec82q.md), [eye_hq](../designs/.md#eye_hq.md), [portal](../designs/.md#portal.md), [may26](../designs/.md#may26.md), [white_elephant](../designs/.md#white_elephant.md), [candle](../designs/.md#candle.md), [nurah](../designs/.md#nurah.md), [unicorn](../designs/.md#unicorn.md), [helmet](../designs/.md#helmet.md), [scooter](../designs/.md#scooter.md), [skateboard](../designs/.md#skateboard.md), [2x13x9](../designs/.md#2x13x9.md)
+
 ---
 
 # Raspberry Pi 3.5" Display
@@ -313,6 +348,7 @@ related:
 
 
  used in : [portal](../designs/.md#portal.md), [may26](../designs/.md#may26.md)
+
 ---
 
 # Raspberry Pi Camera
@@ -327,6 +363,7 @@ related:
 1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md), [blue-donkey](../designs/.md#blue-donkey.md), [blue1](../designs/.md#blue1.md), [blue3](../designs/.md#blue3.md), [blue4](../designs/.md#blue4.md), [chenar-grove](../designs/.md#chenar-grove.md), [cube](../designs/.md#cube.md), [dec82](../designs/.md#dec82.md), [dec82q](../designs/.md#dec82q.md), [portal](../designs/.md#portal.md), [may26](../designs/.md#may26.md), [white_elephant](../designs/.md#white_elephant.md), [candle](../designs/.md#candle.md), [nurah](../designs/.md#nurah.md), [unicorn](../designs/.md#unicorn.md), [helmet](../designs/.md#helmet.md), [scooter](../designs/.md#scooter.md), [skateboard](../designs/.md#skateboard.md), [2x13x9](../designs/.md#2x13x9.md)
+
 ---
 
 # Raspberry Pi High Quality Camera
@@ -339,6 +376,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0124/12339169
 
  used in : [eye_hq](../designs/.md#eye_hq.md)
+
 ---
 
 # Raspberry Pi Sense HAT
@@ -348,6 +386,7 @@ related:
 
 
  used in : [cube](../designs/.md#cube.md), [skateboard](../designs/.md#skateboard.md)
+
 ---
 
 # Scroll pHAT HD
@@ -358,6 +397,7 @@ related:
 
 
  used in : [candle](../designs/.md#candle.md)
+
 ---
 
 # SparkFun Qwiic OLED Display 0.91" 128x32
@@ -366,6 +406,7 @@ related:
 
 
  used in : [2x13x9](../designs/.md#2x13x9.md)
+
 ---
 
 # SparkFun Qwiic pHAT v2.0 for Raspberry Pi
@@ -374,6 +415,7 @@ related:
 
 
  used in : [2x13x9](../designs/.md#2x13x9.md)
+
 ---
 
 # SparkFun Top pHAT for Raspberry Pi
@@ -383,6 +425,7 @@ related:
 
 
  used in : [blue-buggy](../designs/.md#blue-buggy.md), [blue-buggy-2](../designs/.md#blue-buggy-2.md), [blue-donkey](../designs/.md#blue-donkey.md), [dec82q](../designs/.md#dec82q.md)
+
 ---
 
 # Sphero RVR
@@ -393,6 +436,7 @@ related:
 
 
  used in : [blue1](../designs/.md#blue1.md), [blue4](../designs/.md#blue4.md)
+
 ---
 
 # Unicorn HAT HD
@@ -402,6 +446,7 @@ related:
 
 
  used in : [unicorn](../designs/.md#unicorn.md)
+
 ---
 
 # Waveshare 1.3" OLED Display for Jetson Nano
@@ -411,5 +456,6 @@ related:
 
 
  used in : [blue-jetbot](../designs/.md#blue-jetbot.md), [blue-donkey](../designs/.md#blue-donkey.md), [eye_nano](../designs/.md#eye_nano.md)
+
 ---
 
