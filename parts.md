@@ -1,4 +1,5 @@
 # 48mm Mecanum Wheel Pair
+../images/parts/48mm-mecanum-wheel-pair.jpeg
 1. https://www.adafruit.com/product/4990
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4678/13148774
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4679/13148776
@@ -9,6 +10,7 @@
 ---
 
 # 65mm White Wheel for TT DC Gearbox Motors
+../images/parts/65mm-white-wheel-for-tt-dc-gearbox-motors.jpeg
 1. https://www.adafruit.com/product/3763
 
 
@@ -17,6 +19,7 @@
 ---
 
 # Adafruit 13x9 PWM RGB LED Matrix Driver Qwiic
+../images/parts/adafruit-13x9-pwm-rgb-led-matrix-driver-qwiic.jpeg
 1. https://learn.adafruit.com/adafruit-is31fl3741
 1. https://learn.adafruit.com/assets/104577
 1. https://www.adafruit.com/product/5201
@@ -28,6 +31,7 @@
 ---
 
 # Adafruit BrainCraft hat
+../images/parts/adafruit-braincraft-hat.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/4374_Web.pdf
 1. https://www.adafruit.com/product/4374
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4374/13180680
@@ -38,6 +42,7 @@
 ---
 
 # Adafruit DC and Stepper Motor Bonnet for Raspberry Pi
+../images/parts/adafruit-dc-and-stepper-motor-bonnet-for-raspberry-pi.jpeg
 1. https://www.adafruit.com/product/4280
 
 
@@ -46,6 +51,7 @@
 ---
 
 # Adafruit RGB LED Matrix
+../images/parts/adafruit-rgb-led-matrix.jpeg
 1. https://cdn-learn.adafruit.com/downloads/pdf/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi.pdf
 1. https://learn.adafruit.com/32x16-32x32-rgb-led-matrix
 1. https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi
@@ -58,6 +64,7 @@
 ---
 
 # Adafruit RGB Matrix Hat
+../images/parts/adafruit-rgb-matrix-hat.jpeg
 1. https://cdn-learn.adafruit.com/downloads/pdf/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi.pdf
 1. https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2345/5699181
@@ -70,6 +77,7 @@ related:
 ---
 
 # Adafruit TB6612 1.2A DC Stepper Motor Driver Breakout Board
+../images/parts/adafruit-tb6612-12a-dc-stepper-motor-driver-breakout-board.jpeg
 1. https://www.adafruit.com/product/2448
 1. https://www.pishop.ca/product/adafruit-tb6612-1-2a-dcstepper-motor-driver-breakout-board/
 
@@ -79,6 +87,7 @@ related:
 ---
 
 # DC Gearbox Motor - TT Motor
+../images/parts/dc-gearbox-motor---tt-motor.jpeg
 1. https://www.adafruit.com/product/3777
 1. https://www.adafruit.com/product/3801
 1. https://www.adafruit.com/product/3802
@@ -89,6 +98,7 @@ related:
 ---
 
 # DFRobot 5" Display
+../images/parts/dfrobot-5-display.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0550_Web.pdf
 1. https://www.dfrobot.com/product-1784.html
 1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0550/9608214
@@ -99,6 +109,7 @@ related:
 ---
 
 # DFRobot GPS USB
+../images/parts/dfrobot-gps-usb.jpeg
 1. https://www.digikey.ca/en/products/detail/dfrobot/TEL0137/13978513
 
 
@@ -107,6 +118,7 @@ related:
 ---
 
 # DFRobot I2C 16X2 RGB LCD Keypad Hat
+../images/parts/dfrobot-i2c-16x2-rgb-lcd-keypad-hat.jpeg
 1. https://www.dfrobot.com/product-1885.html
 1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0514/15997375
 
@@ -116,6 +128,7 @@ related:
 ---
 
 # DFRobot Jetson Nano UPS Hat
+../images/parts/dfrobot-jetson-nano-ups-hat.jpeg
 1. https://wiki.dfrobot.com/UPS_HAT_for_Jetson_Nano_SKU_DFR0865
 1. https://www.dfrobot.com/product-2342.html
 1. https://www.digikey.ca/en/products/detail/dfrobot/DFR0865/14824938
@@ -127,6 +140,7 @@ related:
 ---
 
 # Exceed Fire Blue RC Buggy 1/16 2.4Ghz
+../images/parts/exceed-fire-blue-rc-buggy-1/16-24ghz.jpeg
 1. https://p11.secure.hostingprod.com/@hobbypartz.com/ssl/ibuyrc/manual/51C852.pdf
 1. https://www.nitrorcx.com/51c852-fireblue-24ghz.html
 
@@ -136,6 +150,7 @@ related:
 ---
 
 # Flick Large 3D Tracking & Gesture Module
+../images/parts/flick-large-3d-tracking-&-gesture-module.jpeg
 1. https://www.robotshop.com/ca/en/flick-hat-3d-tracking-gesture-raspberry-pi.html
 1. https://www.robotshop.com/ca/en/flick-large-3d-tracking-gesture-module.html
 
@@ -145,6 +160,7 @@ related:
 ---
 
 # Grove Button
+../images/parts/grove-button.jpeg
 1. http://www.seeedstudio.com/document/pdf/Introduction%20to%20Grove.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/111020000/5487957
 1. https://www.seeedstudio.com/Grove-Button-P.html
@@ -155,6 +171,7 @@ related:
 ---
 
 # Grove Light Sensor
+../images/parts/grove-light-sensor.jpeg
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020030/5482599
 
 
@@ -163,6 +180,7 @@ related:
 ---
 
 # Grove OLED 0.96" display
+../images/parts/grove-oled-096-display.jpeg
 1. https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/104020249/14672108
 
@@ -172,6 +190,7 @@ related:
 ---
 
 # Grove Raspberry Pi Hat
+../images/parts/grove-raspberry-pi-hat.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/Grove_Base_Hat_for_Raspberry_Pi_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030276/9771828
@@ -182,6 +201,7 @@ related:
 ---
 
 # Grove Relay
+../images/parts/grove-relay.jpeg
 1. https://raw.githubusercontent.com/SeeedDocument/Grove-Relay/master/res/Relay_Datasheet.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103020005/5487965
 1. https://www.seeedstudio.com/Grove-Relay.html
@@ -192,6 +212,7 @@ related:
 ---
 
 # Grove RGB LED
+../images/parts/grove-rgb-led.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/104020048_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/104020048/7622878
 1. https://www.seeedstudio.com/Grove-Chainable-RGB-Led-V2-0.html
@@ -204,6 +225,7 @@ related:
 ---
 
 # Grove Soil Sensor
+../images/parts/grove-soil-sensor.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020614_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020614/10451856
 
@@ -213,6 +235,7 @@ related:
 ---
 
 # Grove Temperature Sensor
+../images/parts/grove-temperature-sensor.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020015_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020015/5482612
 
@@ -226,6 +249,7 @@ related:
 ---
 
 # Grove Water Sensor
+../images/parts/grove-water-sensor.jpeg
 1. https://github.com/Seeed-Studio/Grove_Water_Sensor
 1. https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/101020018_Web.pdf
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/101020018/5482605
@@ -237,6 +261,7 @@ related:
 ---
 
 # JetBot AI Kit Accessories
+../images/parts/jetbot-ai-kit-accessories.jpeg
 1. https://www.waveshare.com/jetbot-ai-kit-acce.htm
 
 related:
@@ -247,6 +272,7 @@ related:
 ---
 
 # Jetson Nano
+../images/parts/jetson-nano.jpeg
 1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 
 
@@ -255,6 +281,7 @@ related:
 ---
 
 # Jetson Nano Wideangle Camera
+../images/parts/jetson-nano-wideangle-camera.jpeg
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
 
 
@@ -263,6 +290,7 @@ related:
 ---
 
 # MakerFocus Raspberry Pi UPS Hat
+../images/parts/makerfocus-raspberry-pi-ups-hat.jpeg
 1. https://www.amazon.com/gp/product/B01LAEX7J0/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1
 1. https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply
 
@@ -280,6 +308,7 @@ related:
 ---
 
 # Pioneer600 Raspberry Pi Expansion Board
+../images/parts/pioneer600-raspberry-pi-expansion-board.jpeg
 1. https://www.pishop.ca/product/pioneer600-raspberry-pi-expansion-board/
 1. https://www.waveshare.com/wiki/Pioneer600
 
@@ -289,6 +318,7 @@ related:
 ---
 
 # Qwiic 6 Degrees of Freedom Breakout
+../images/parts/qwiic-6-degrees-of-freedom-breakout.jpeg
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/SEN-18020/14313960
 1. https://www.sparkfun.com/products/18020
 
@@ -298,6 +328,7 @@ related:
 ---
 
 # Qwiic Cable
+../images/parts/qwiic-cable.jpeg
 1. https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5384/16546428
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14426/7652739
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14427/7652740
@@ -308,6 +339,7 @@ related:
 ---
 
 # Qwiic Digital Temperature Sensor
+../images/parts/qwiic-digital-temperature-sensor.jpeg
 1. https://www.sparkfun.com/products/16304
 
 
@@ -316,6 +348,7 @@ related:
 ---
 
 # Qwiic Joystick
+../images/parts/qwiic-joystick.jpeg
 1. https://www.sparkfun.com/products/15168
 
 
@@ -324,6 +357,7 @@ related:
 ---
 
 # Qwiic LED Stick
+../images/parts/qwiic-led-stick.jpeg
 1. https://cdn.sparkfun.com/assets/learn_tutorials/1/8/2/4/Qwiic_LED_Stick-Dimensions.png
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/COM-18354/14645588
 1. https://www.sparkfun.com/products/18354
@@ -334,6 +368,7 @@ related:
 ---
 
 # Raspberry Pi
+../images/parts/raspberry-pi.jpeg
 1. https://www.raspberrypi.org/
 
 
@@ -342,6 +377,7 @@ related:
 ---
 
 # Raspberry Pi 3.5" Display
+../images/parts/raspberry-pi-35-display.jpeg
 1. http://www.lcdwiki.com/3.5inch_RPi_Display
 1. https://www.pishop.ca/product/3-5-inch-raspberry-pi-tft-display/
 1. https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(A)
@@ -352,6 +388,7 @@ related:
 ---
 
 # Raspberry Pi Camera
+../images/parts/raspberry-pi-camera.jpeg
 1. ir: https://www.digikey.ca/en/products/detail/pimoroni-ltd/CAM008/9521978
 1. ir: https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114990837/6578355
 1. noir: https://www.digikey.ca/en/products/detail/raspberry-pi/913-2673/6152811
@@ -367,6 +404,7 @@ related:
 ---
 
 # Raspberry Pi High Quality Camera
+../images/parts/raspberry-pi-high-quality-camera.jpeg
 1. https://www.adafruit.com/product/4561
 1. https://www.digikey.ca/en/products/detail/raspberry-pi/SC0261/12339164
 1. https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/
@@ -380,6 +418,7 @@ related:
 ---
 
 # Raspberry Pi Sense HAT
+../images/parts/raspberry-pi-sense-hat.jpeg
 1. https://pythonhosted.org/sense-hat/
 1. https://www.digikey.ca/en/products/detail/raspberry-pi/SENSE-HAT/6196429
 1. https://www.raspberrypi.com/documentation/accessories/sense-hat.html
@@ -390,6 +429,7 @@ related:
 ---
 
 # Scroll pHAT HD
+../images/parts/scroll-phat-hd.jpeg
 1. https://github.com/pimoroni/scroll-phat-hd
 1. https://media.digikey.com/pdf/Data%20Sheets/Pimoroni%20PDFs/Scroll_pHAT_HD_Web.pdf
 1. https://shop.pimoroni.com/products/scroll-phat-hd?variant=2380803768330
@@ -401,6 +441,7 @@ related:
 ---
 
 # SparkFun Qwiic OLED Display 0.91" 128x32
+../images/parts/sparkfun-qwiic-oled-display-091-128x32.jpeg
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/LCD-17153/13419017
 1. https://www.sparkfun.com/products/17153
 
@@ -410,6 +451,7 @@ related:
 ---
 
 # SparkFun Qwiic pHAT v2.0 for Raspberry Pi
+../images/parts/sparkfun-qwiic-phat-v20-for-raspberry-pi.jpeg
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-15945/11570526
 1. https://www.sparkfun.com/products/15945
 
@@ -419,6 +461,7 @@ related:
 ---
 
 # SparkFun Top pHAT for Raspberry Pi
+../images/parts/sparkfun-top-phat-for-raspberry-pi.jpeg
 1. https://learn.sparkfun.com/tutorials/sparkfun-top-phat-hookup-guide
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-16653/12327504
 1. https://www.sparkfun.com/products/16301
@@ -429,6 +472,7 @@ related:
 ---
 
 # Sphero RVR
+../images/parts/sphero-rvr.jpeg
 1. https://github.com/sphero-inc/sphero-sdk-raspberrypi-python
 1. https://pimylifeup.com/raspberry-pi-serial/
 1. https://sdk.sphero.com/docs/getting_started/raspberry_pi/raspberry_pi_setup/
@@ -440,6 +484,7 @@ related:
 ---
 
 # Unicorn HAT HD
+../images/parts/unicorn-hat-hd.jpeg
 1. https://media.digikey.com/pdf/Data%20Sheets/Pimoroni%20PDFs/PIM273_Web.pdf
 1. https://shop.pimoroni.com/products/unicorn-hat-hd?variant=42496126730
 1. https://www.digikey.ca/en/products/detail/pimoroni-ltd/PIM273/7386666
@@ -450,6 +495,7 @@ related:
 ---
 
 # Waveshare 1.3" OLED Display for Jetson Nano
+../images/parts/waveshare-13-oled-display-for-jetson-nano.jpeg
 1. https://www.robotshop.com/en/waveshare-environment-sensors-module-jetson-nano-i2c-bus-w-13in-oled-display.html
 1. https://www.waveshare.com/environment-sensor-for-jetson-nano.htm
 1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
