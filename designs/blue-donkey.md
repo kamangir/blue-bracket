@@ -11,7 +11,7 @@ A <a href="https://docs.donkeycar.com/">Donkey Car</a> + cloud pieces from <a hr
 1. [Adafruit TB6612 1.2A DC Stepper Motor Driver Breakout Board](../parts.md#adafruit-tb6612-12a-dc-stepper-motor-driver-breakout-board)
 1. [DFRobot GPS USB](../parts.md#dfrobot-gps-usb)
 1. [DFRobot Jetson Nano UPS Hat](../parts.md#dfrobot-jetson-nano-ups-hat)
-1. [Exceed Fire Blue RC Buggy 1/16 2.4Ghz](../parts.md#exceed-fire-blue-rc-buggy-1/16-24ghz)
+1. [Exceed Fire Blue RC Buggy 1/16 2.4Ghz](../parts.md#exceed-fire-blue-rc-buggy-1-16-24ghz)
 1. [Jetson Nano Wideangle Camera](../parts.md#jetson-nano-wideangle-camera)
 1. [Jetson Nano](../parts.md#jetson-nano)
 1. [MakerFocus Raspberry Pi UPS Hat](../parts.md#makerfocus-raspberry-pi-ups-hat)

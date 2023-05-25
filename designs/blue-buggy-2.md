@@ -9,7 +9,7 @@ A Raspberry Pi robot based on <a href="https://projects.raspberrypi.org/en/proje
 
 1. [48mm Mecanum Wheel Pair](../parts.md#48mm-mecanum-wheel-pair)
 1. [Adafruit DC and Stepper Motor Bonnet for Raspberry Pi](../parts.md#adafruit-dc-and-stepper-motor-bonnet-for-raspberry-pi)
-1. [DC Gearbox Motor - TT Motor](../parts.md#dc-gearbox-motor---tt-motor)
+1. [DC Gearbox Motor - TT Motor](../parts.md#dc-gearbox-motor-tt-motor)
 1. [DFRobot GPS USB](../parts.md#dfrobot-gps-usb)
 1. [MakerFocus Raspberry Pi UPS Hat](../parts.md#makerfocus-raspberry-pi-ups-hat)
 1. [Raspberry Pi Camera](../parts.md#raspberry-pi-camera)

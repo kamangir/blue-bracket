@@ -87,7 +87,7 @@ related:
 ---
 
 # DC Gearbox Motor - TT Motor
-[![image](./images/parts/dc-gearbox-motor---tt-motor.jpeg)](#dc-gearbox-motor---tt-motor)
+[![image](./images/parts/dc-gearbox-motor-tt-motor.jpeg)](#dc-gearbox-motor-tt-motor)
 1. https://www.adafruit.com/product/3777
 1. https://www.adafruit.com/product/3801
 1. https://www.adafruit.com/product/3802
@@ -140,7 +140,7 @@ related:
 ---
 
 # Exceed Fire Blue RC Buggy 1/16 2.4Ghz
-[![image](./images/parts/exceed-fire-blue-rc-buggy-1/16-24ghz.jpeg)](#exceed-fire-blue-rc-buggy-1/16-24ghz)
+[![image](./images/parts/exceed-fire-blue-rc-buggy-1-16-24ghz.jpeg)](#exceed-fire-blue-rc-buggy-1-16-24ghz)
 1. https://p11.secure.hostingprod.com/@hobbypartz.com/ssl/ibuyrc/manual/51C852.pdf
 1. https://www.nitrorcx.com/51c852-fireblue-24ghz.html
 
@@ -276,7 +276,7 @@ related:
 1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar_nano](./designs/chenar_nano.md)
 
 ---
 
@@ -285,7 +285,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar_nano](./designs/chenar_nano.md)
 
 ---
 
@@ -501,7 +501,16 @@ related:
 1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar_nano](./designs/chenar_nano.md)
+
+---
+
+# Waveshare 3-CH Relay Expansion Board for Jetson Nano w/ Optocoupler Isolation
+[![image](./images/parts/waveshare-3-ch-relay-expansion-board-for-jetson-nano-w-optocoupler-isolation.jpeg)](#waveshare-3-ch-relay-expansion-board-for-jetson-nano-w-optocoupler-isolation)
+1. https://www.robotshop.com/products/waveshare-3-ch-relay-expansion-board-jetson-nano-w-optocoupler-isolation
+
+
+ used in : [chenar_nano](./designs/chenar_nano.md)
 
 ---
 

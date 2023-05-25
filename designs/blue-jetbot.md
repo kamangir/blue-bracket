@@ -8,7 +8,7 @@ An <a href="https://jetbot.org/master/index.html">Nvidia Jetbot</a> compatible d
 # [bom](../parts.md)
 
 1. [65mm White Wheel for TT DC Gearbox Motors](../parts.md#65mm-white-wheel-for-tt-dc-gearbox-motors)
-1. [DC Gearbox Motor - TT Motor](../parts.md#dc-gearbox-motor---tt-motor)
+1. [DC Gearbox Motor - TT Motor](../parts.md#dc-gearbox-motor-tt-motor)
 1. [JetBot AI Kit Accessories](../parts.md#jetbot-ai-kit-accessories)
 1. [Jetson Nano Wideangle Camera](../parts.md#jetson-nano-wideangle-camera)
 1. [Jetson Nano](../parts.md#jetson-nano)
