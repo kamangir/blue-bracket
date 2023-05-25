@@ -276,7 +276,7 @@ related:
 1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar_nano](./designs/chenar_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
@@ -285,7 +285,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar_nano](./designs/chenar_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
@@ -501,7 +501,7 @@ related:
 1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar_nano](./designs/chenar_nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
@@ -510,7 +510,7 @@ related:
 1. https://www.robotshop.com/products/waveshare-3-ch-relay-expansion-board-jetson-nano-w-optocoupler-isolation
 
 
- used in : [chenar_nano](./designs/chenar_nano.md)
+ used in : [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
