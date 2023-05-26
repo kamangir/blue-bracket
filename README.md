@@ -14,10 +14,10 @@ Here are [nine designs](designs) for this purpose. Each yields a modern Linux ma
 | [![image](images/blue1-1.jpg)](designs/blue1.md) | [![image](images/blue3-1.jpg)](designs/blue3.md) | [![image](images/blue4-1.jpg)](designs/blue4.md) |
 | [![image](images/candle-1.jpg)](designs/candle.md) | [![image](images/chenar-grove-1.jpg)](designs/chenar-grove.md) | [![image](images/chenar-nano-1.jpg)](designs/chenar-nano.md) |
 | [![image](images/cube-1.jpg)](designs/cube.md) | [![image](images/dec82-1.jpg)](designs/dec82.md) | [![image](images/dec82q-1.jpg)](designs/dec82q.md) |
-| [![image](images/eye_hq-1.jpg)](designs/eye_hq.md) | [![image](images/eye_nano-1.jpg)](designs/eye_nano.md) | [![image](images/helmet-1.jpg)](designs/helmet.md) |
-| [![image](images/may26-1.jpg)](designs/may26.md) | [![image](images/nurah-1.jpg)](designs/nurah.md) | [![image](images/portal-1.jpg)](designs/portal.md) |
-| [![image](images/scooter-1.jpg)](designs/scooter.md) | [![image](images/skateboard-1.jpg)](designs/skateboard.md) | [![image](images/unicorn-1.jpg)](designs/unicorn.md) |
-| [![image](images/white_elephant-1.jpg)](designs/white_elephant.md) |
+| [![image](images/double-portal-1.jpg)](designs/double-portal.md) | [![image](images/eye_hq-1.jpg)](designs/eye_hq.md) | [![image](images/eye_nano-1.jpg)](designs/eye_nano.md) |
+| [![image](images/helmet-1.jpg)](designs/helmet.md) | [![image](images/may26-1.jpg)](designs/may26.md) | [![image](images/nurah-1.jpg)](designs/nurah.md) |
+| [![image](images/portal-1.jpg)](designs/portal.md) | [![image](images/scooter-1.jpg)](designs/scooter.md) | [![image](images/skateboard-1.jpg)](designs/skateboard.md) |
+| [![image](images/unicorn-1.jpg)](designs/unicorn.md) | [![image](images/white_elephant-1.jpg)](designs/white_elephant.md) |
 
 For each design a bom is provided.
 

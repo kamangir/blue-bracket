@@ -2,6 +2,7 @@ Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Po
 
 | [![image](../images/portal-2.jpg)](#) | [![image](../images/portal-3.jpg)](#) | [![image](../images/portal-4.jpg)](#) |
 | --- | --- | --- |
+| [![image](../images/portal-5.jpg)](#) | [![image](../images/portal-6.jpg)](#) | [![image](../images/portal-7.jpg)](#) |
 
 ---
 
