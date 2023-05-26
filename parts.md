@@ -372,7 +372,7 @@ related:
 1. https://www.raspberrypi.org/
 
 
- used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [blue-sense](./designs/blue-sense.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [eye_hq](./designs/eye_hq.md), [portal](./designs/portal.md), [double-portal](./designs/double-portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [blue-sense](./designs/blue-sense.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [eye_hq](./designs/eye_hq.md), [portal](./designs/portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
 
 ---
 
@@ -383,7 +383,7 @@ related:
 1. https://www.waveshare.com/wiki/3.5inch_RPi_LCD_(A)
 
 
- used in : [portal](./designs/portal.md), [double-portal](./designs/double-portal.md), [may26](./designs/may26.md)
+ used in : [portal](./designs/portal.md), [may26](./designs/may26.md)
 
 ---
 
@@ -399,7 +399,7 @@ related:
 related:
 1. 300 mm flat cable: https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1648/7035020
 
- used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [blue-sense](./designs/blue-sense.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [portal](./designs/portal.md), [double-portal](./designs/double-portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [blue-sense](./designs/blue-sense.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [portal](./designs/portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
 
 ---
 
