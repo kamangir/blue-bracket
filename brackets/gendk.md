@@ -1,6 +1,6 @@
 # gendk
 
-`gendk` is designed for [[blue-donkey]].
+`gendk` is designed for [blue-donkey](../designs/blue-donkey.md)
 
 ![gendk](../images/gendk.png)
 
