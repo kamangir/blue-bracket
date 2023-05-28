@@ -14,7 +14,7 @@
 ## dg
 
 ![gen1-dg](https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dg.png)
-![gen1-dg](../images/gen1-d.pngg)
+![gen1-dg](../images/gen1-dg.png)
 ## dh
 
 Obsolete -> [gen1-dk](#dk)
