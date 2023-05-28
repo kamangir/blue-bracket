@@ -4,7 +4,7 @@
 
 ## d
 
-[[https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-d.png]]
+![gen1d](https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-d.png)
 
 ## db
 
@@ -12,13 +12,13 @@
 
 ## dg
 
-[[https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dg.png]]
+![gen1-dg](https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dg.png)
 
 ## dh
 
 Obsolete -> [gen1-dk](#dk)
 
-[[https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dh.png]]
+![gen1-dh](https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dh.png)
 
 ## dk
 
@@ -28,11 +28,11 @@ Obsolete -> [gen1-dk](#dk)
 
 Obsolete -> [gen1-dk](#dk)
 
-[[https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dr.png]]
+![gen1-dr](https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dr.png)
 
 ## dv
 
-[[https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dv.png]]
+![gen1-dv](https://github.com/kamangir/private_2022_03_02/raw/main/images/bracket/gen1-dv.png)
 
 ## dw
 
