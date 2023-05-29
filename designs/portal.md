@@ -1,4 +1,4 @@
-Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Portal</a>, see <a href="https://github.com/kamangir/RAW-Vancouver-PORTAL-2022">this repo</a> for more details + code.
+git difHardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Portal</a>, see <a href="https://github.com/kamangir/RAW-Vancouver-PORTAL-2022">this repo</a> for more details + code.
 
 | [![image](../images/portal-2.jpg)](#) | [![image](../images/portal-3.jpg)](#) | [![image](../images/portal-4.jpg)](#) |
 | --- | --- | --- |
@@ -14,7 +14,7 @@ Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Po
 
 # [brackets](../brackets)
 
-1. [gen3-sftqx](../brackets/gen3-sftqx/gen3-sftqx.stl)
+1. [gen3-sftq2x](../brackets/gen3-sftq2x/gen3-sftq2x.stl)
 1. [gen3-sftx](../brackets/gen3-sftx/gen3-sftx.stl)
 1. [gen3-sktx](../brackets/gen3-sktx/gen3-sktx.stl)
 1. [gen3-sotx](../brackets/gen3-sotx/gen3-sotx.stl)
