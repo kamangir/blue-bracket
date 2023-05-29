@@ -1,4 +1,4 @@
-git difHardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Portal</a>, see <a href="https://github.com/kamangir/RAW-Vancouver-PORTAL-2022">this repo</a> for more details + code.
+Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Portal</a>, see <a href="https://github.com/kamangir/RAW-Vancouver-PORTAL-2022">this repo</a> for more details + code.
 
 | [![image](../images/portal-2.jpg)](#) | [![image](../images/portal-3.jpg)](#) | [![image](../images/portal-4.jpg)](#) |
 | --- | --- | --- |
