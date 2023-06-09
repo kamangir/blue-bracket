@@ -1,8 +1,11 @@
 Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Portal</a>, see <a href="https://github.com/kamangir/RAW-Vancouver-PORTAL-2022">this repo</a> for more details + code.
 
-| [![image](../images/portal-2.jpg)](#) | [![image](../images/portal-3.jpg)](#) | [![image](../images/portal-4.jpg)](#) |
+| [![image](../images/portal-1.jpg)](#) | [![image](../images/portal-2.jpg)](#) | [![image](../images/portal-3.jpg)](#) |
 | --- | --- | --- |
 | [![image](../images/portal-5.jpg)](#) | [![image](../images/portal-6.jpg)](#) | [![image](../images/portal-7.jpg)](#) |
+| [![image](../images/portal-8.jpg)](#) | [![image](../images/portal-9.jpg)](#) | [![image](../images/portal-10.jpg)](#) |
+| [![image](../images/portal-11.jpg)](#) | [![image](../images/portal-12.jpg)](#) | [![image](../images/portal-13.jpg)](#) |
+| [![image](../images/portal-14.jpg)](#) | [![image](../images/portal-15.jpg)](#) | [![image](../images/portal-16.jpg)](#) |
 
 ---
 
