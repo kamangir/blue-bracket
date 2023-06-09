@@ -323,7 +323,7 @@ related:
 1. https://www.sparkfun.com/products/18020
 
 
- used in : [dec82q](./designs/dec82q.md), [helmet](./designs/helmet.md)
+ used in : [dec82q](./designs/dec82q.md), [portal](./designs/portal.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -334,7 +334,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14427/7652740
 
 
- used in : [dec82q](./designs/dec82q.md), [helmet](./designs/helmet.md)
+ used in : [dec82q](./designs/dec82q.md), [portal](./designs/portal.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -343,7 +343,7 @@ related:
 1. https://www.sparkfun.com/products/16304
 
 
- used in : [dec82q](./designs/dec82q.md)
+ used in : [dec82q](./designs/dec82q.md), [portal](./designs/portal.md)
 
 ---
 
@@ -352,7 +352,7 @@ related:
 1. https://www.sparkfun.com/products/15168
 
 
- used in : [dec82q](./designs/dec82q.md)
+ used in : [dec82q](./designs/dec82q.md), [portal](./designs/portal.md)
 
 ---
 
@@ -363,7 +363,7 @@ related:
 1. https://www.sparkfun.com/products/18354
 
 
- used in : [dec82q](./designs/dec82q.md), [helmet](./designs/helmet.md)
+ used in : [dec82q](./designs/dec82q.md), [portal](./designs/portal.md), [helmet](./designs/helmet.md)
 
 ---
 
@@ -437,6 +437,16 @@ related:
 
 
  used in : [candle](./designs/candle.md)
+
+---
+
+# SparkFun Qwiic HAT for Raspberry Pi
+[![image](./images/parts/sparkfun-qwiic-hat-for-raspberry-pi.jpeg)](#sparkfun-qwiic-hat-for-raspberry-pi)
+1. https://www.digikey.ca/en/products/detail/sparkfun-electronics/DEV-14459/7942481
+1. https://www.sparkfun.com/products/14459
+
+
+ used in : [portal](./designs/portal.md)
 
 ---
 
