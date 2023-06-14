@@ -15,7 +15,7 @@ Here are [nine designs](designs) for this purpose. Each yields a modern Linux ma
 | [![image](images/candle-1.jpg)](designs/candle.md) | [![image](images/chenar-grove-1.jpg)](designs/chenar-grove.md) | [![image](images/chenar-nano-1.jpg)](designs/chenar-nano.md) |
 | [![image](images/cube-1.jpg)](designs/cube.md) | [![image](images/dec82-1.jpg)](designs/dec82.md) | [![image](images/dec82q-1.jpg)](designs/dec82q.md) |
 | [![image](images/eye_hq-1.jpg)](designs/eye_hq.md) | [![image](images/eye_nano-1.jpg)](designs/eye_nano.md) | [![image](images/helmet-1.jpg)](designs/helmet.md) |
-| [![image](images/may26-1.jpg)](designs/may26.md) | [![image](images/nurah-1.jpg)](designs/nurah.md) | [![image](images/portal-14.jpg)](designs/portal.md) |
+| [![image](images/may26-1.jpg)](designs/may26.md) | [![image](images/nurah-1.jpg)](designs/nurah.md) | [![image](images/portal-23.jpg)](designs/portal.md) |
 | [![image](images/scooter-1.jpg)](designs/scooter.md) | [![image](images/skateboard-1.jpg)](designs/skateboard.md) | [![image](images/unicorn-1.jpg)](designs/unicorn.md) |
 | [![image](images/white_elephant-1.jpg)](designs/white_elephant.md) |
 
@@ -24,5 +24,5 @@ For each design a bom is provided.
 Each design uses two or more variants of the `blue bracket`. `stl`/`obj`/`skp` (SketchUp 2022) files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
 
 ---
-built by [`abcli-7.2245.1-main`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.231.1.
+built by [`abcli-7.2278.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.232.1.
 
