@@ -24,9 +24,9 @@ For each design a bom is provided.
 Each design uses two or more variants of the `blue bracket`. `stl`/`obj`/`skp` (SketchUp 2022) files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
 
 ---
-built by [`abcli-7.2278.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.235.1.
+built by [`abcli-7.2278.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.236.1.
 
 ---
 
-If you are an individual or a group that works on AI on the edge and want one of these designs, send me a shout + your github handle at [arash@kamangir.net](mailto:arash@kamangir.net). In return, I ask you to open source your code with a permissive license, preferably creative commons. This offer is only valid in 🇨🇦, for legal reasons.
+If you are an individual or a group that works on AI on the edge and want one of these designs, send me a shout + your github handle at [arash@kamangir.net](mailto:arash@kamangir.net?subject=blue%20brackets). In return, I ask you to open source your code with a permissive license, preferably creative commons. This offer is only valid in 🇨🇦, for legal reasons.
 
