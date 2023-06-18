@@ -1,7 +1,7 @@
 A <a href="https://docs.donkeycar.com/">Donkey Car</a> + cloud pieces from <a href="blue1.md">blue1</a> that supports both Raspberry Pi and Jetson Nano motherboards.
 
-| [![image](../images/blue-donkey-2.jpg)](#) | [![image](../images/blue-donkey-3.jpg)](#) | [![image](../images/blue-donkey-4.jpg)](#) |
-| --- | --- | --- |
+| [![image](../images/blue-donkey-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-donkey-1.jpg) | [![image](../images/blue-donkey-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-donkey-2.jpg) | [![image](../images/blue-donkey-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-donkey-3.jpg) | [![image](../images/blue-donkey-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-donkey-4.jpg) |
+| --- | --- | --- | --- |
 
 ---
 

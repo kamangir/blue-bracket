@@ -1,7 +1,7 @@
 Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
-| [![image](../images/eye_hq-2.jpg)](#) | [![image](../images/eye_hq-3.jpg)](#) | [![image](../images/eye_hq-4.jpg)](#) |
-| --- | --- | --- |
+| [![image](../images/eye_hq-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/eye_hq-1.jpg) | [![image](../images/eye_hq-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/eye_hq-2.jpg) | [![image](../images/eye_hq-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/eye_hq-3.jpg) | [![image](../images/eye_hq-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/eye_hq-4.jpg) |
+| --- | --- | --- | --- |
 
 ---
 

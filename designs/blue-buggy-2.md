@@ -1,7 +1,7 @@
 A Raspberry Pi robot based on <a href="https://projects.raspberrypi.org/en/projects/build-a-buggy/0">build-a-buggy</a> that uses <a href="https://gpiozero.readthedocs.io/en/stable/index.html">gpiozero</a> - also see <a href="https://www.waveshare.com/wiki/BuildMecar-Kit">BuildMecar-Kit</a>.
 
-| [![image](../images/blue-buggy-2-2.jpg)](#) | [![image](../images/blue-buggy-2-3.jpg)](#) | [![image](../images/blue-buggy-2-4.jpg)](#) |
-| --- | --- | --- |
+| [![image](../images/blue-buggy-2-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-buggy-2-1.jpg) | [![image](../images/blue-buggy-2-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-buggy-2-2.jpg) | [![image](../images/blue-buggy-2-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-buggy-2-3.jpg) | [![image](../images/blue-buggy-2-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-buggy-2-4.jpg) |
+| --- | --- | --- | --- |
 
 ---
 

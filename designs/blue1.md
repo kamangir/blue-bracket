@@ -1,7 +1,7 @@
 Download <a href="https://github.com/kamangir/blue-rvr">python+bash code</a> and read more: <a href="https://arash-kamangir.medium.com/camera-code-action-9e6f8c50a272">camera, code, action</a>.
 
-| [![image](../images/blue1-2.jpg)](#) | [![image](../images/blue1-3.jpg)](#) | [![image](../images/blue1-4.jpg)](#) |
-| --- | --- | --- |
+| [![image](../images/blue1-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue1-1.jpg) | [![image](../images/blue1-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue1-2.jpg) | [![image](../images/blue1-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue1-3.jpg) | [![image](../images/blue1-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue1-4.jpg) |
+| --- | --- | --- | --- |
 
 ---
 
