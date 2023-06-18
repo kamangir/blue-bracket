@@ -1,6 +1,6 @@
 Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
-| [![image](../images/skateboard-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/skateboard-1.jpg) | [![image](../images/skateboard-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/skateboard-2.jpg) | [![image](../images/skateboard-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/skateboard-3.jpg) | [![image](../images/skateboard-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/skateboard-4.jpg) | [![image](../images/skateboard-5.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/skateboard-5.jpg) |
+| [![image](../images/skateboard-1.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/skateboard-1.jpg) | [![image](../images/skateboard-2.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/skateboard-2.jpg) | [![image](../images/skateboard-3.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/skateboard-3.jpg) | [![image](../images/skateboard-4.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/skateboard-4.jpg) | [![image](../images/skateboard-5.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/skateboard-5.jpg) |
 | --- | --- | --- | --- | --- |
 
 ---

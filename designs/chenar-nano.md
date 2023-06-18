@@ -1,6 +1,6 @@
 Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
-| [![image](../images/chenar-nano-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/chenar-nano-1.jpg) | [![image](../images/chenar-nano-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/chenar-nano-2.jpg) | [![image](../images/chenar-nano-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/chenar-nano-3.jpg) | [![image](../images/chenar-nano-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/chenar-nano-4.jpg) |
+| [![image](../images/chenar-nano-1.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/chenar-nano-1.jpg) | [![image](../images/chenar-nano-2.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/chenar-nano-2.jpg) | [![image](../images/chenar-nano-3.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/chenar-nano-3.jpg) | [![image](../images/chenar-nano-4.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/chenar-nano-4.jpg) |
 | --- | --- | --- | --- |
 
 ---

@@ -1,6 +1,6 @@
 An <a href="https://jetbot.org/master/index.html">Nvidia Jetbot</a> compatible design using <a href="https://www.waveshare.com/jetbot-ai-kit-acce.htm">Waveshare AI Kit Accessories</a>.
 
-| [![image](../images/blue-jetbot-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-jetbot-1.jpg) | [![image](../images/blue-jetbot-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-jetbot-2.jpg) | [![image](../images/blue-jetbot-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-jetbot-3.jpg) | [![image](../images/blue-jetbot-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/blue-jetbot-4.jpg) |
+| [![image](../images/blue-jetbot-1.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/blue-jetbot-1.jpg) | [![image](../images/blue-jetbot-2.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/blue-jetbot-2.jpg) | [![image](../images/blue-jetbot-3.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/blue-jetbot-3.jpg) | [![image](../images/blue-jetbot-4.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/blue-jetbot-4.jpg) |
 | --- | --- | --- | --- |
 
 ---

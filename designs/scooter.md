@@ -1,8 +1,8 @@
 Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
-| [![image](../images/scooter-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-1.jpg) | [![image](../images/scooter-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-2.jpg) | [![image](../images/scooter-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-3.jpg) | [![image](../images/scooter-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-4.jpg) | [![image](../images/scooter-5.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-5.jpg) |
+| [![image](../images/scooter-1.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-1.jpg) | [![image](../images/scooter-2.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-2.jpg) | [![image](../images/scooter-3.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-3.jpg) | [![image](../images/scooter-4.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-4.jpg) | [![image](../images/scooter-5.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-5.jpg) |
 | --- | --- | --- | --- | --- |
-| [![image](../images/scooter-6.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-6.jpg) | [![image](../images/scooter-7.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/scooter-7.jpg) |  |  |  |
+| [![image](../images/scooter-6.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-6.jpg) | [![image](../images/scooter-7.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/scooter-7.jpg) |  |  |  |
 
 ---
 

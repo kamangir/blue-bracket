@@ -1,6 +1,6 @@
 Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for edge computing on single board computers.
 
-| [![image](../images/unicorn-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/unicorn-1.jpg) | [![image](../images/unicorn-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/unicorn-2.jpg) | [![image](../images/unicorn-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/unicorn-3.jpg) | [![image](../images/unicorn-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/unicorn-4.jpg) | [![image](../images/unicorn-5.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/unicorn-5.jpg) |
+| [![image](../images/unicorn-1.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/unicorn-1.jpg) | [![image](../images/unicorn-2.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/unicorn-2.jpg) | [![image](../images/unicorn-3.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/unicorn-3.jpg) | [![image](../images/unicorn-4.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/unicorn-4.jpg) | [![image](../images/unicorn-5.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/unicorn-5.jpg) |
 | --- | --- | --- | --- | --- |
 
 ---

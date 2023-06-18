@@ -1,6 +1,6 @@
 A wearable Raspberry Pi + <a href="https://www.sparkfun.com/qwiic">Qwiic</a> + Camera. Python + bash <a href="https://github.com/kamangir/dec82">bootstrap</a>.
 
-| [![image](../images/dec82q-1.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/dec82q-1.jpg) | [![image](../images/dec82q-2.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/dec82q-2.jpg) | [![image](../images/dec82q-3.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/dec82q-3.jpg) | [![image](../images/dec82q-4.jpg)](https://raw.githubusercontent.com/kamangir/blue-bracket/main/images/dec82q-4.jpg) |
+| [![image](../images/dec82q-1.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/dec82q-1.jpg) | [![image](../images/dec82q-2.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/dec82q-2.jpg) | [![image](../images/dec82q-3.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/dec82q-3.jpg) | [![image](../images/dec82q-4.jpg)](https://github.com/kamangir/blue-bracket/blob/main/images/dec82q-4.jpg) |
 | --- | --- | --- | --- |
 
 ---
