@@ -13,6 +13,4 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 
 # [brackets](../brackets)
 
-1. [gen1-de](../brackets/gen1-de/gen1-de.stl)
-1. [gen1-df](../brackets/gen1-df/gen1-df.stl)
 
