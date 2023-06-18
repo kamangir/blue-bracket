@@ -428,6 +428,15 @@ related:
 
 ---
 
+# Raspberry Pi Zero
+[![image](./images/parts/raspberry-pi-zero.jpeg)](#raspberry-pi-zero)
+1. https://www.raspberrypi.com/products/raspberry-pi-zero/
+
+
+ used in : [eye_zero](./designs/eye_zero.md)
+
+---
+
 # Scroll pHAT HD
 [![image](./images/parts/scroll-phat-hd.jpeg)](#scroll-phat-hd)
 1. https://github.com/pimoroni/scroll-phat-hd
@@ -521,6 +530,15 @@ related:
 
 
  used in : [chenar-nano](./designs/chenar-nano.md)
+
+---
+
+# Zero Spy Camera for Raspberry Pi Zero
+[![image](./images/parts/zero-spy-camera-for-raspberry-pi-zero.jpeg)](#zero-spy-camera-for-raspberry-pi-zero)
+1. https://www.adafruit.com/product/3508
+
+
+ used in : [eye_zero](./designs/eye_zero.md)
 
 ---
 
