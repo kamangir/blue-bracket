@@ -4,6 +4,12 @@
 
 Machine vision on the edge requires a motherboard, a camera, and a few other peripherals. Environmental sensors, a UPS to provide power, and screens and other display units to communicate w/ the user, are also great to have.
 
+---
+
+If you are an individual or a group that works on AI on the edge and want one of these designs, send me a shout + your github handle at [arash@kamangir.net](mailto:arash@kamangir.net?subject=blue%20brackets). In return, I ask you to open source your code with a permissive license, preferably creative commons. This offer is only valid in 🇨🇦, for legal reasons.
+
+---
+
 [![image](images/marquee.jpg)](brackets)
 
 Here are [multiple designs](designs) for this purpose. Each yields a modern Linux machine that is connected to a camera and can run almost anything Python, TensorFlow, OpenCV, and much more. The motherboard is either a Raspberry Pi or a Jetson Nano. The rest of the hardware is picked accordingly. Click on the images to see more.
@@ -25,8 +31,3 @@ Each design uses two or more variants of the `blue bracket`. `stl`/`obj`/`skp` (
 
 ---
 built by [`abcli-7.2278.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.236.1.
-
----
-
-If you are an individual or a group that works on AI on the edge and want one of these designs, send me a shout + your github handle at [arash@kamangir.net](mailto:arash@kamangir.net?subject=blue%20brackets). In return, I ask you to open source your code with a permissive license, preferably creative commons. This offer is only valid in 🇨🇦, for legal reasons.
-
