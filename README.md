@@ -6,7 +6,7 @@ Machine vision on the edge requires a motherboard, a camera, and a few other per
 
 [![image](images/marquee.jpg)](brackets)
 
-Here are [nine designs](designs) for this purpose. Each yields a modern Linux machine that is connected to a camera and can run almost anything Python, TensorFlow, OpenCV, and much more. The motherboard is either a Raspberry Pi or a Jetson Nano. The rest of the hardware is picked accordingly. Click on the images to see more.
+Here are [multiple designs](designs) for this purpose. Each yields a modern Linux machine that is connected to a camera and can run almost anything Python, TensorFlow, OpenCV, and much more. The motherboard is either a Raspberry Pi or a Jetson Nano. The rest of the hardware is picked accordingly. Click on the images to see more.
 
 | [![image](images/2x13x9-1.jpg)](designs/2x13x9.md) | [![image](images/blue-buggy-1.jpg)](designs/blue-buggy.md) | [![image](images/blue-buggy-2-1.jpg)](designs/blue-buggy-2.md) |
 | --- | --- | --- |
@@ -24,5 +24,9 @@ For each design a bom is provided.
 Each design uses two or more variants of the `blue bracket`. `stl`/`obj`/`skp` (SketchUp 2022) files for the brackets plus gcode for PLA in low quality (0.3 mm) for [DigiLab 3D Printer 3D45](https://3pitech.com/products/dremel-digilab-3d45-3d-printer) are [included in this repo](brackets).
 
 ---
-built by [`abcli-7.2278.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.234.1.
+built by [`abcli-7.2278.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.235.1.
+
+---
+
+If you are an individual or a group that works on AI on the edge and want one of these designs, send me a shout + your github handle at [arash@kamangir.net](mailto:arash@kamangir.net). In return, I ask you to open source your code with a permissive license, preferably creative commons. This offer is only valid in 🇨🇦, for legal reasons.
 
