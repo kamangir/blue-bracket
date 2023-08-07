@@ -19,5 +19,5 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 1. [gen1-dk-pi](../brackets/gen1-dk-pi/gen1-dk-pi.stl)
 1. [gen1-dk](../brackets/gen1-dk/gen1-dk.stl)
 
-# release note
+# [release note](../releases.md)
 [2023-05-22](https://medium.com/@arash-kamangir/blue-sense-93dd45e7e588), Vancouver 🌈.
