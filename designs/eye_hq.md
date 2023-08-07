@@ -17,4 +17,4 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 1. [gen3-sswx](../brackets/gen3-sswx/gen3-sswx.stl)
 
 # [release note](../releases.md)
-2023-05-25, Vancouver 🌈.
+~2023-05-25, Vancouver 🌈.
