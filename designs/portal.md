@@ -34,4 +34,4 @@ Hardware for <a href="https://rawartists.com/vancouver/portal">RAW Vancouver: Po
 1. [gen3-sotx](../brackets/gen3-sotx/gen3-sotx.stl)
 
 # release note
-2023-07-26, Vancouver
+[2023-07-26](https://medium.com/@arash-kamangir/cv-update-and-portal-release-73ee08ac36d1), Vancouver 🌈.

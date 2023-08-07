@@ -16,4 +16,4 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 1. [gen1-df](../brackets/gen1-df/gen1-df.stl)
 
 # release note
-~2022-12-10, in Vancouver. 🌈
+~2022-12-10, in Vancouver 🌈.
