@@ -17,3 +17,5 @@ Python + bash <a href="https://github.com/kamangir/blue-sbc">bootstrap</a> for e
 1. [gen3-scx](../brackets/gen3-scx/gen3-scx.stl)
 1. [gen3-stcx](../brackets/gen3-stcx/gen3-stcx.stl)
 
+# release note
+~2023-05-25, Vancouver 🌈.
