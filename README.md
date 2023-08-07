@@ -29,4 +29,4 @@ Each design uses two or more variants of the `blue bracket`. `stl`/`obj`/`skp` (
 To boot and terraform the designs use this <a href="https://github.com/kamangir/blue-sbc">python + bash bootstrap</a>.
 
 ---
-built by [`abcli-7.2307.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.244.1.
+built by [`abcli-7.2307.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on bracket-1.245.1.
