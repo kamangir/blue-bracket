@@ -135,7 +135,7 @@ related:
 1. https://www.robotshop.com/ca/en/ups-hat-for-jetson-nano.html
 
 
- used in : [blue-donkey](./designs/blue-donkey.md)
+ used in : [blue-donkey](./designs/blue-donkey.md), [blue2](./designs/blue2.md)
 
 ---
 
@@ -285,7 +285,7 @@ related:
 1. https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [hard_worker](./designs/hard_worker.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [blue2](./designs/blue2.md), [hard_worker](./designs/hard_worker.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
@@ -294,7 +294,7 @@ related:
 1. https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/114992265/12396929
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [blue2](./designs/blue2.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
@@ -529,7 +529,7 @@ related:
 1. https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
 
 
- used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [hard_worker](./designs/hard_worker.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
+ used in : [blue-jetbot](./designs/blue-jetbot.md), [blue-donkey](./designs/blue-donkey.md), [blue2](./designs/blue2.md), [hard_worker](./designs/hard_worker.md), [eye_nano](./designs/eye_nano.md), [chenar-nano](./designs/chenar-nano.md)
 
 ---
 
