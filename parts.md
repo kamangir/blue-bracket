@@ -433,7 +433,7 @@ related:
 1. https://www.raspberrypi.com/products/raspberry-pi-zero/
 
 
- used in : [eye_zero](./designs/eye_zero.md)
+ used in : [4x0](./designs/4x0.md), [eye_zero](./designs/eye_zero.md)
 
 ---
 
