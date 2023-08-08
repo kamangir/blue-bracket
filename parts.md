@@ -260,6 +260,15 @@ related:
 
 ---
 
+# Intel RealSense
+[![image](./images/parts/intel-realsense.jpeg)](#intel-realsense)
+1. https://www.digikey.ca/en/products/detail/intel-realsense/82635AWGDVKPMP/9926003
+
+
+ used in : [realsense](./designs/realsense.md)
+
+---
+
 # JetBot AI Kit Accessories
 [![image](./images/parts/jetbot-ai-kit-accessories.jpeg)](#jetbot-ai-kit-accessories)
 1. https://www.waveshare.com/jetbot-ai-kit-acce.htm
@@ -372,7 +381,7 @@ related:
 1. https://www.raspberrypi.org/
 
 
- used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [blue-sense](./designs/blue-sense.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [eye_hq](./designs/eye_hq.md), [portal](./designs/portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [4xrpi](./designs/4xrpi.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
+ used in : [blue-buggy](./designs/blue-buggy.md), [blue-buggy-2](./designs/blue-buggy-2.md), [blue-donkey](./designs/blue-donkey.md), [blue1](./designs/blue1.md), [blue3](./designs/blue3.md), [blue4](./designs/blue4.md), [chenar-grove](./designs/chenar-grove.md), [cube](./designs/cube.md), [realsense](./designs/realsense.md), [blue-sense](./designs/blue-sense.md), [dec82](./designs/dec82.md), [dec82q](./designs/dec82q.md), [eye_hq](./designs/eye_hq.md), [portal](./designs/portal.md), [may26](./designs/may26.md), [white_elephant](./designs/white_elephant.md), [4xrpi](./designs/4xrpi.md), [candle](./designs/candle.md), [nurah](./designs/nurah.md), [unicorn](./designs/unicorn.md), [helmet](./designs/helmet.md), [scooter](./designs/scooter.md), [skateboard](./designs/skateboard.md), [2x13x9](./designs/2x13x9.md)
 
 ---
 
