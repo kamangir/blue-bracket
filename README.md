@@ -34,4 +34,4 @@ If you are an individual or a group involved in AI on the edge and are intereste
 ---
 
 ---
-built by [`abcli-7.2307.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on `bracket-1.253.1`.
+built by [`abcli-7.2307.1-2023-06-aws-batch-a`](https://github.com/kamangir/awesome-bash-cli), based on `bracket-1.254.1`.
